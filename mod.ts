@@ -1,5 +1,7 @@
 import { BerryEndpoint } from './lib/endpoint/berry.ts';
 import type { PokeAPIOptions } from './lib/interface/optionts.if.ts';
+import { BerryFlavor, BerryFlavors, SearchRequest, UniversalResourceRedirect } from './lib/interface/pokeapi.co.ts';
+import { remap } from './lib/util/array.ts';
 
 /**
  * Third-party Driver with Caching to The RESTful Pokemon API. Made for Deno.
@@ -18,14 +20,18 @@ export class PokeAPI {
     this.options = options;
   }
 
-  public async get<T>(path: `/${string}`): Promise<T> {
-    const http = await fetch(`https://pokeapi.co/api/v2${path}`, {
+  public async get<T>(path: `/${string}` | UniversalResourceRedirect): Promise<T> {
+    let base = 'https://pokeapi.co/api/v2';
+    if (typeof path === 'string') {
+      path = path.replace('https://pokeapi.co', '').replace('/api/v2', '') as `/${string}`;
+      base = `${base}${path}`;
+    } else base = path.url;
+    const http = await fetch(base, {
       cache: 'default',
     });
-    return await http.json();
-  }
-
-  public normalize(path: string): string {
-    return path.replace('https://pokeapi.co', '');
+    const json = await http.json();
+    return json;
   }
 }
+
+

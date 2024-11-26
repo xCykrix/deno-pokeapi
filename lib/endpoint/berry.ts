@@ -1,6 +1,6 @@
 import { PokeAPI } from '../../mod.ts';
-import { MasterRequestOptions } from '../interface/optionts.if.ts';
-import { Berry, BerryFirmness } from '../interface/pokeapi.co.ts';
+import { Berry, BerryFirmness, BerryFlavor, SearchRequest, UniversalResourceRedirect } from '../interface/pokeapi.co.ts';
+import { data } from '../util/request.ts';
 
 export class BerryEndpoint {
   private api: PokeAPI;
@@ -9,19 +9,27 @@ export class BerryEndpoint {
     this.api = api;
   }
 
-  public async getBerry(identifier: string | number, options?: MasterRequestOptions): Promise<Berry> {
-    const result = await this.api.get<Berry>(`/berry/${identifier}`);
-    if (options?.followRedirects === false) return result;
-    result.firmness = await this.getBerryFirmness(result.firmness.name, { followRedirects: false });
-    return result;
+  public async getAllBerries(): Promise<SearchRequest> {
+    return await this.api.get<SearchRequest>(`/berry?limit=1000000`);
   }
 
-  public async getBerryFirmness(identifier: string, options?: MasterRequestOptions): Promise<BerryFirmness> {
-    const result = await this.api.get<BerryFirmness>(`/berry-firmness/${identifier}`);
-    if (!options?.followRedirects === false) return result;
-    for (let berry of result.berries) {
-      berry = await this.getBerry(berry.name, { followRedirects: false });
-    }
-    return result;
+  public async getAllBerryFirmness(): Promise<SearchRequest> {
+    return await this.api.get<SearchRequest>(`/berry-firmness?limit=1000000`);
+  }
+
+  public async getAllBerryFlavor(): Promise<SearchRequest> {
+    return await this.api.get<SearchRequest>(`/berry-flavor?limit=1000000`);
+  }
+
+  public async getBerry(identifier: string | number | UniversalResourceRedirect): Promise<Berry> {
+    return await data<Berry>(this.api, 'berry', identifier);
+  }
+
+  public async getBerryFirmness(identifier: string | number | UniversalResourceRedirect): Promise<BerryFirmness> {
+    return await data<BerryFirmness>(this.api, 'berry-firmness', identifier);
+  }
+
+  public async getBerryFlavor(identifier: string | number | UniversalResourceRedirect): Promise<BerryFlavor> {
+    return await data<BerryFlavor>(this.api, 'berry-flavor', identifier);
   }
 }

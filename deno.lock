@@ -1,8 +1,39 @@
 {
   "version": "4",
   "specifiers": {
+    "jsr:@std/assert@1.0.5": "1.0.5",
+    "jsr:@std/assert@1.0.8": "1.0.8",
+    "jsr:@std/fmt@*": "1.0.3",
+    "jsr:@std/fmt@1.0.3": "1.0.3",
+    "jsr:@std/internal@^1.0.3": "1.0.5",
+    "jsr:@std/internal@^1.0.5": "1.0.5",
+    "jsr:@std/testing@*": "1.0.5",
+    "jsr:@std/testing@1.0.5": "1.0.5",
     "npm:ax@*": "0.2.2",
     "npm:axios-cache-interceptor@*": "1.6.2_axios@1.7.8"
+  },
+  "jsr": {
+    "@std/assert@1.0.5": {
+      "integrity": "e37da8e4033490ce613eec4ac1d78dba1faf5b02a3f6c573a28f15365b9b440f",
+      "dependencies": [
+        "jsr:@std/internal@^1.0.3"
+      ]
+    },
+    "@std/assert@1.0.8": {
+      "integrity": "ebe0bd7eb488ee39686f77003992f389a06c3da1bbd8022184804852b2fa641b",
+      "dependencies": [
+        "jsr:@std/internal@^1.0.5"
+      ]
+    },
+    "@std/fmt@1.0.3": {
+      "integrity": "97765c16aa32245ff4e2204ecf7d8562496a3cb8592340a80e7e554e0bb9149f"
+    },
+    "@std/internal@1.0.5": {
+      "integrity": "54a546004f769c1ac9e025abd15a76b6671ddc9687e2313b67376125650dc7ba"
+    },
+    "@std/testing@1.0.5": {
+      "integrity": "6e693cbec94c81a1ad3df668685c7ba8e20742bb10305bc7137faa5cf16d2ec4"
+    }
   },
   "npm": {
     "asynckit@0.4.0": {

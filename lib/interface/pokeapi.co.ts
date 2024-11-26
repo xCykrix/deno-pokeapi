@@ -1,15 +1,27 @@
 // deno-lint-ignore-file camelcase
 // Master Typing Index of API.
 
-export interface Redirectable {
+/** A Unresolved Redirect Resource. */
+export interface UniversalResourceRedirect {
   name: string;
   url: string;
 }
 
-export interface LanguageResolvable {
+/** A Language Resolvable Resource. */
+export interface ResolvableLanguage {
   name: string;
+  language: UniversalResourceRedirect;
 }
 
+/** Search Request */
+export interface SearchRequest {
+  count: number;
+  next: null;
+  previous: null;
+  results: UniversalResourceRedirect[];
+}
+
+/** The Berry. */
 export interface Berry {
   'id': number;
   'name': string;
@@ -19,32 +31,32 @@ export interface Berry {
   'size': number;
   'smoothness': number;
   'soil_dryness': number;
-  'firmness': BerryFirmness | Redirectable;
-  'flavors': [
-    {
-      'potency': 10;
-      'flavor': {
-        'name': 'spicy';
-        'url': 'https://pokeapi.co/api/v2/berry-flavor/1/';
-      };
-    },
-  ];
-  'item': Redirectable;
-  'natural_gift_type': {
-    'name': 'fire';
-    'url': 'https://pokeapi.co/api/v2/type/10/';
-  };
+  'firmness': UniversalResourceRedirect;
+  'flavors': BerryFlavors[];
+  'item': UniversalResourceRedirect;
+  'natural_gift_type': UniversalResourceRedirect;
 }
 
+/** Berry Firmness. */
 export interface BerryFirmness {
   'id': number;
   'name': string;
-  'berries': Berry[] | Redirectable[];
-  'names': {
-    'name': string;
-    'language': LanguageResolvable;
-  }[];
+  'berries': UniversalResourceRedirect[];
+  'names': ResolvableLanguage[];
+}
+
+export interface BerryFlavors {
+  'potency': number;
+  'flavor': UniversalResourceRedirect;
 }
 
 export interface BerryFlavor {
+  'berries': [{
+    'berry': UniversalResourceRedirect;
+    'potency': number;
+  }];
+  'context_type': UniversalResourceRedirect;
+  'id': number;
+  'name': string;
+  'names': ResolvableLanguage[];
 }
