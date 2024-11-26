@@ -10,14 +10,14 @@ export class BerryEndpoint {
   }
 
   public async getBerry(identifier: string | number, options?: MasterRequestOptions): Promise<Berry> {
-    const result = await this.api.getResource<Berry>(`/berry/${identifier}`);
+    const result = await this.api.get<Berry>(`/berry/${identifier}`);
     if (options?.followRedirects === false) return result;
     result.firmness = await this.getBerryFirmness(result.firmness.name, { followRedirects: false });
     return result;
   }
 
   public async getBerryFirmness(identifier: string, options?: MasterRequestOptions): Promise<BerryFirmness> {
-    const result = await this.api.getResource<BerryFirmness>(`/berry-firmness/${identifier}`);
+    const result = await this.api.get<BerryFirmness>(`/berry-firmness/${identifier}`);
     if (!options?.followRedirects === false) return result;
     for (let berry of result.berries) {
       berry = await this.getBerry(berry.name, { followRedirects: false });
