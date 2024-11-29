@@ -1,5 +1,5 @@
-import { PokeAPI } from '../../mod.ts';
-import { Berry, BerryFirmness, BerryFlavor, SearchRequest, UniversalResourceRedirect } from '../interface/pokeapi.co.ts';
+import type { PokeAPI } from '../../mod.ts';
+import type { ResolvableLanguage, SearchRequest, UniversalResourceRedirect } from '../interface/pokeapi.co.ts';
 import { data } from '../util/request.ts';
 
 export class BerryEndpoint {
@@ -32,4 +32,46 @@ export class BerryEndpoint {
   public async getBerryFlavor(identifier: string | number | UniversalResourceRedirect): Promise<BerryFlavor> {
     return await data<BerryFlavor>(this.api, 'berry-flavor', identifier);
   }
+}
+
+/** The Berry. */
+export interface Berry {
+  'id': number;
+  'name': string;
+  'growth_time': number;
+  'max_harvest': number;
+  'natural_gift_power': number;
+  'size': number;
+  'smoothness': number;
+  'soil_dryness': number;
+  'firmness': UniversalResourceRedirect;
+  'flavors': BerryFlavors[];
+  'item': UniversalResourceRedirect;
+  'natural_gift_type': UniversalResourceRedirect;
+}
+
+/** Berry Firmness. */
+export interface BerryFirmness {
+  'id': number;
+  'name': string;
+  'berries': UniversalResourceRedirect[];
+  'names': ResolvableLanguage[];
+}
+
+/** Berry Flavors. */
+export interface BerryFlavors {
+  'potency': number;
+  'flavor': UniversalResourceRedirect;
+}
+
+/** Berry Flavor. */
+export interface BerryFlavor {
+  'berries': [{
+    'berry': UniversalResourceRedirect;
+    'potency': number;
+  }];
+  'context_type': UniversalResourceRedirect;
+  'id': number;
+  'name': string;
+  'names': ResolvableLanguage[];
 }

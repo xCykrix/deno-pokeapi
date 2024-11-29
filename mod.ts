@@ -1,7 +1,6 @@
 import { BerryEndpoint } from './lib/endpoint/berry.ts';
 import type { PokeAPIOptions } from './lib/interface/optionts.if.ts';
-import { BerryFlavor, BerryFlavors, SearchRequest, UniversalResourceRedirect } from './lib/interface/pokeapi.co.ts';
-import { remap } from './lib/util/array.ts';
+import type { UniversalResourceRedirect } from './lib/interface/pokeapi.co.ts';
 
 /**
  * Third-party Driver with Caching to The RESTful Pokemon API. Made for Deno.
@@ -33,5 +32,3 @@ export class PokeAPI {
     return json;
   }
 }
-
-
