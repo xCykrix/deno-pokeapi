@@ -1,2 +1,3 @@
-/** Testing */
-export { assert, assertEquals } from 'jsr:@std/assert@1.0.8';
+
+export { MainClient, Constants } from 'npm:pokenode-ts@1.20.0';
+export type * from "npm:pokenode-ts@1.20.0";
