@@ -1,20 +1,32 @@
-import { MainClient } from './deps.ts';
+import type { Pokedex, PokedexDataFile } from './lib/pokedex.if.ts';
 
-/**
- * Third-party Driver with Caching to The RESTful Pokemon API. Made for Deno.
- *
- * All the Pokemon data you'll ever need in one place, easily accessible through a modern free open-source RESTful API.
- *
- * https://pokeapi.co/
- */
-export class PokemonDatabase {
-  private api: MainClient;
+const database = JSON.parse(await Deno.readTextFileSync('./data.json')) as PokedexDataFile;
 
-  public constructor() {
-    this.api = new MainClient();
+//
+class PokedexCreate {
+  public index: Pokedex[] = [];
+
+  public constructor(struct: PokedexDataFile) {
+    this.index.push(...struct.data.pokemon_v2_pokedex);
   }
+}
 
-  public get(): MainClient {
-    return this.api;
+const pokedex = new PokedexCreate(database);
+for (const entries of pokedex.index) {
+  const pokedexId = entries.id;
+  const pokedexName = entries.name;
+  for (const entry of entries.pokemon_v2_pokemondexnumbers) {
+    const pokedexNumber = entry.pokedex_number;
+    const spec = entry.pokemon_v2_pokemonspecy;
+    for (const pokemon of spec.pokemon_v2_pokemons) {
+      for (const form of pokemon.pokemon_v2_pokemonforms) {
+        const formName = form.name;
+        const formIdentifier = form.form_name;
+        const isDefault = form.is_default;
+        const isBattleOnly = form.is_battle_only;
+        const isMega = form.is_mega;
+        console.info(`[${pokedexId}:${pokedexName}] (${pokedexNumber}) ${formName} / ${formIdentifier} / isDefault:${isDefault} isBattleOnly:${isBattleOnly} isMega:${isMega}`);
+      }
+    }
   }
 }
