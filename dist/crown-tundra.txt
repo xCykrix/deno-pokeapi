@@ -1,0 +1,263 @@
+pokedexId	pokedexNumber	pokedexName	formName	formIdentifier	isMainSeries	isDefault	isBattleOnly	isMega
+29	65	crown-tundra	nidoran-f		true	true	false	false
+29	66	crown-tundra	nidorina		true	true	false	false
+29	67	crown-tundra	nidoqueen		true	true	false	false
+29	68	crown-tundra	nidoran-m		true	true	false	false
+29	69	crown-tundra	nidorino		true	true	false	false
+29	70	crown-tundra	nidoking		true	true	false	false
+29	44	crown-tundra	clefairy		true	true	false	false
+29	45	crown-tundra	clefable		true	true	false	false
+29	144	crown-tundra	zubat		true	true	false	false
+29	145	crown-tundra	golbat		true	true	false	false
+29	105	crown-tundra	ponyta		true	true	false	false
+29	105	crown-tundra	ponyta-galar	galar	true	true	false	false
+29	106	crown-tundra	rapidash		true	true	false	false
+29	106	crown-tundra	rapidash-galar	galar	true	true	false	false
+29	11	crown-tundra	mr-mime		true	true	false	false
+29	11	crown-tundra	mr-mime-galar	galar	true	true	false	false
+29	14	crown-tundra	jynx		true	true	false	false
+29	16	crown-tundra	electabuzz		true	true	false	false
+29	19	crown-tundra	magmar		true	true	false	false
+29	62	crown-tundra	magikarp		true	true	false	false
+29	63	crown-tundra	gyarados		true	true	false	false
+29	63	crown-tundra	gyarados-mega	mega	true	true	true	true
+29	190	crown-tundra	lapras		true	true	false	false
+29	190	crown-tundra	lapras-gmax	gmax	true	true	true	false
+29	74	crown-tundra	eevee		true	true	false	false
+29	74	crown-tundra	eevee-starter	starter	true	true	false	false
+29	74	crown-tundra	eevee-gmax	gmax	true	true	true	false
+29	75	crown-tundra	vaporeon		true	true	false	false
+29	76	crown-tundra	jolteon		true	true	false	false
+29	77	crown-tundra	flareon		true	true	false	false
+29	123	crown-tundra	omanyte		true	true	false	false
+29	124	crown-tundra	omastar		true	true	false	false
+29	125	crown-tundra	kabuto		true	true	false	false
+29	126	crown-tundra	kabutops		true	true	false	false
+29	127	crown-tundra	aerodactyl		true	true	false	false
+29	127	crown-tundra	aerodactyl-mega	mega	true	true	true	true
+29	173	crown-tundra	snorlax		true	true	false	false
+29	173	crown-tundra	snorlax-gmax	gmax	true	true	true	false
+29	202	crown-tundra	articuno		true	true	false	false
+29	202	crown-tundra	articuno-galar	galar	true	true	false	false
+29	203	crown-tundra	zapdos		true	true	false	false
+29	203	crown-tundra	zapdos-galar	galar	true	true	false	false
+29	204	crown-tundra	moltres		true	true	false	false
+29	204	crown-tundra	moltres-galar	galar	true	true	false	false
+29	194	crown-tundra	dratini		true	true	false	false
+29	195	crown-tundra	dragonair		true	true	false	false
+29	196	crown-tundra	dragonite		true	true	false	false
+29	146	crown-tundra	crobat		true	true	false	false
+29	43	crown-tundra	cleffa		true	true	false	false
+29	79	crown-tundra	espeon		true	true	false	false
+29	78	crown-tundra	umbreon		true	true	false	false
+29	170	crown-tundra	shuckle		true	true	false	false
+29	28	crown-tundra	sneasel		true	true	false	false
+29	28	crown-tundra	sneasel-hisui	hisui	true	true	false	false
+29	7	crown-tundra	swinub		true	true	false	false
+29	8	crown-tundra	piloswine		true	true	false	false
+29	120	crown-tundra	delibird		true	true	false	false
+29	13	crown-tundra	smoochum		true	true	false	false
+29	15	crown-tundra	elekid		true	true	false	false
+29	18	crown-tundra	magby		true	true	false	false
+29	139	crown-tundra	larvitar		true	true	false	false
+29	140	crown-tundra	pupitar		true	true	false	false
+29	141	crown-tundra	tyranitar		true	true	false	false
+29	141	crown-tundra	tyranitar-mega	mega	true	true	true	true
+29	71	crown-tundra	zigzagoon		true	true	false	false
+29	71	crown-tundra	zigzagoon-galar	galar	true	true	false	false
+29	72	crown-tundra	linoone		true	true	false	false
+29	72	crown-tundra	linoone-galar	galar	true	true	false	false
+29	174	crown-tundra	sableye		true	true	false	false
+29	174	crown-tundra	sableye-mega	mega	true	true	true	true
+29	175	crown-tundra	mawile		true	true	false	false
+29	175	crown-tundra	mawile-mega	mega	true	true	true	true
+29	191	crown-tundra	aron		true	true	false	false
+29	192	crown-tundra	lairon		true	true	false	false
+29	193	crown-tundra	aggron		true	true	false	false
+29	193	crown-tundra	aggron-mega	mega	true	true	true	true
+29	35	crown-tundra	swablu		true	true	false	false
+29	36	crown-tundra	altaria		true	true	false	false
+29	36	crown-tundra	altaria-mega	mega	true	true	true	true
+29	60	crown-tundra	barboach		true	true	false	false
+29	61	crown-tundra	whiscash		true	true	false	false
+29	151	crown-tundra	baltoy		true	true	false	false
+29	152	crown-tundra	claydol		true	true	false	false
+29	183	crown-tundra	lileep		true	true	false	false
+29	184	crown-tundra	cradily		true	true	false	false
+29	185	crown-tundra	anorith		true	true	false	false
+29	186	crown-tundra	armaldo		true	true	false	false
+29	188	crown-tundra	feebas		true	true	false	false
+29	189	crown-tundra	milotic		true	true	false	false
+29	107	crown-tundra	absol		true	true	false	false
+29	107	crown-tundra	absol-mega	mega	true	true	true	true
+29	25	crown-tundra	snorunt		true	true	false	false
+29	26	crown-tundra	glalie		true	true	false	false
+29	26	crown-tundra	glalie-mega	mega	true	true	true	true
+29	159	crown-tundra	spheal		true	true	false	false
+29	160	crown-tundra	sealeo		true	true	false	false
+29	161	crown-tundra	walrein		true	true	false	false
+29	187	crown-tundra	relicanth		true	true	false	false
+29	113	crown-tundra	bagon		true	true	false	false
+29	114	crown-tundra	shelgon		true	true	false	false
+29	115	crown-tundra	salamence		true	true	false	false
+29	115	crown-tundra	salamence-mega	mega	true	true	true	true
+29	129	crown-tundra	beldum		true	true	false	false
+29	130	crown-tundra	metang		true	true	false	false
+29	131	crown-tundra	metagross		true	true	false	false
+29	131	crown-tundra	metagross-mega	mega	true	true	true	true
+29	197	crown-tundra	regirock		true	true	false	false
+29	198	crown-tundra	regice		true	true	false	false
+29	199	crown-tundra	registeel		true	true	false	false
+29	87	crown-tundra	bronzor		true	true	false	false
+29	88	crown-tundra	bronzong		true	true	false	false
+29	10	crown-tundra	mime-jr		true	true	false	false
+29	47	crown-tundra	spiritomb		true	true	false	false
+29	116	crown-tundra	gible		true	true	false	false
+29	117	crown-tundra	gabite		true	true	false	false
+29	118	crown-tundra	garchomp		true	true	false	false
+29	118	crown-tundra	garchomp-mega	mega	true	true	true	true
+29	172	crown-tundra	munchlax		true	true	false	false
+29	134	crown-tundra	riolu		true	true	false	false
+29	135	crown-tundra	lucario		true	true	false	false
+29	135	crown-tundra	lucario-mega	mega	true	true	true	true
+29	31	crown-tundra	snover		true	true	false	false
+29	32	crown-tundra	abomasnow		true	true	false	false
+29	32	crown-tundra	abomasnow-mega	mega	true	true	true	true
+29	29	crown-tundra	weavile		true	true	false	false
+29	17	crown-tundra	electivire		true	true	false	false
+29	20	crown-tundra	magmortar		true	true	false	false
+29	81	crown-tundra	leafeon		true	true	false	false
+29	80	crown-tundra	glaceon		true	true	false	false
+29	9	crown-tundra	mamoswine		true	true	false	false
+29	27	crown-tundra	froslass		true	true	false	false
+29	21	crown-tundra	audino		true	true	false	false
+29	21	crown-tundra	audino-mega	mega	true	true	true	true
+29	57	crown-tundra	timburr		true	true	false	false
+29	58	crown-tundra	gurdurr		true	true	false	false
+29	59	crown-tundra	conkeldurr		true	true	false	false
+29	168	crown-tundra	cottonee		true	true	false	false
+29	169	crown-tundra	whimsicott		true	true	false	false
+29	64	crown-tundra	basculin-red-striped	red-striped	true	true	false	false
+29	64	crown-tundra	basculin-blue-striped	blue-striped	true	true	false	false
+29	64	crown-tundra	basculin-white-striped	white-striped	true	true	false	false
+29	103	crown-tundra	darumaka		true	true	false	false
+29	103	crown-tundra	darumaka-galar	galar	true	true	false	false
+29	104	crown-tundra	darmanitan-standard	standard	true	true	false	false
+29	104	crown-tundra	darmanitan-zen	zen	true	true	true	false
+29	104	crown-tundra	darmanitan-galar-standard	galar-standard	true	true	false	false
+29	104	crown-tundra	darmanitan-galar-zen	galar-zen	true	true	true	false
+29	147	crown-tundra	tirtouga		true	true	false	false
+29	148	crown-tundra	carracosta		true	true	false	false
+29	149	crown-tundra	archen		true	true	false	false
+29	150	crown-tundra	archeops		true	true	false	false
+29	51	crown-tundra	gothita		true	true	false	false
+29	52	crown-tundra	gothorita		true	true	false	false
+29	53	crown-tundra	gothitelle		true	true	false	false
+29	54	crown-tundra	solosis		true	true	false	false
+29	55	crown-tundra	duosion		true	true	false	false
+29	56	crown-tundra	reuniclus		true	true	false	false
+29	22	crown-tundra	vanillite		true	true	false	false
+29	23	crown-tundra	vanillish		true	true	false	false
+29	24	crown-tundra	vanilluxe		true	true	false	false
+29	95	crown-tundra	karrablast		true	true	false	false
+29	96	crown-tundra	escavalier		true	true	false	false
+29	93	crown-tundra	joltik		true	true	false	false
+29	94	crown-tundra	galvantula		true	true	false	false
+29	179	crown-tundra	ferroseed		true	true	false	false
+29	180	crown-tundra	ferrothorn		true	true	false	false
+29	48	crown-tundra	litwick		true	true	false	false
+29	49	crown-tundra	lampent		true	true	false	false
+29	50	crown-tundra	chandelure		true	true	false	false
+29	121	crown-tundra	cubchoo		true	true	false	false
+29	122	crown-tundra	beartic		true	true	false	false
+29	30	crown-tundra	cryogonal		true	true	false	false
+29	97	crown-tundra	shelmet		true	true	false	false
+29	98	crown-tundra	accelgor		true	true	false	false
+29	119	crown-tundra	druddigon		true	true	false	false
+29	153	crown-tundra	golett		true	true	false	false
+29	154	crown-tundra	golurk		true	true	false	false
+29	102	crown-tundra	heatmor		true	true	false	false
+29	101	crown-tundra	durant		true	true	false	false
+29	136	crown-tundra	deino		true	true	false	false
+29	137	crown-tundra	zweilous		true	true	false	false
+29	138	crown-tundra	hydreigon		true	true	false	false
+29	205	crown-tundra	cobalion		true	true	false	false
+29	206	crown-tundra	terrakion		true	true	false	false
+29	207	crown-tundra	virizion		true	true	false	false
+29	83	crown-tundra	tyrunt		true	true	false	false
+29	84	crown-tundra	tyrantrum		true	true	false	false
+29	85	crown-tundra	amaura		true	true	false	false
+29	86	crown-tundra	aurorus		true	true	false	false
+29	82	crown-tundra	sylveon		true	true	false	false
+29	128	crown-tundra	carbink		true	true	false	false
+29	33	crown-tundra	phantump		true	true	false	false
+29	34	crown-tundra	trevenant		true	true	false	false
+29	142	crown-tundra	bergmite		true	true	false	false
+29	143	crown-tundra	avalugg		true	true	false	false
+29	143	crown-tundra	avalugg-hisui	hisui	true	true	false	false
+29	181	crown-tundra	noibat		true	true	false	false
+29	182	crown-tundra	noivern		true	true	false	false
+29	91	crown-tundra	dewpider		true	true	false	false
+29	92	crown-tundra	araquanid		true	true	false	false
+29	92	crown-tundra	araquanid-totem	totem	true	true	false	false
+29	46	crown-tundra	mimikyu-disguised	disguised	true	true	false	false
+29	46	crown-tundra	mimikyu-busted	busted	true	true	true	false
+29	46	crown-tundra	mimikyu-totem-disguised	totem-disguised	true	true	false	false
+29	46	crown-tundra	mimikyu-totem-busted	totem-busted	true	true	true	false
+29	162	crown-tundra	dhelmise		true	true	false	false
+29	5	crown-tundra	skwovet		true	true	false	false
+29	6	crown-tundra	greedent		true	true	false	false
+29	163	crown-tundra	rookidee		true	true	false	false
+29	164	crown-tundra	corvisquire		true	true	false	false
+29	165	crown-tundra	corviknight		true	true	false	false
+29	165	crown-tundra	corviknight-gmax	gmax	true	true	true	false
+29	166	crown-tundra	gossifleur		true	true	false	false
+29	167	crown-tundra	eldegoss		true	true	false	false
+29	3	crown-tundra	wooloo		true	true	false	false
+29	4	crown-tundra	dubwool		true	true	false	false
+29	155	crown-tundra	yamper		true	true	false	false
+29	156	crown-tundra	boltund		true	true	false	false
+29	176	crown-tundra	rolycoly		true	true	false	false
+29	177	crown-tundra	carkol		true	true	false	false
+29	178	crown-tundra	coalossal		true	true	false	false
+29	178	crown-tundra	coalossal-gmax	gmax	true	true	true	false
+29	99	crown-tundra	sizzlipede		true	true	false	false
+29	100	crown-tundra	centiskorch		true	true	false	false
+29	100	crown-tundra	centiskorch-gmax	gmax	true	true	true	false
+29	132	crown-tundra	sinistea-phony	phony	true	true	false	false
+29	132	crown-tundra	sinistea-antique	antique	true	false	false	false
+29	133	crown-tundra	polteageist-phony	phony	true	true	false	false
+29	133	crown-tundra	polteageist-antique	antique	true	false	false	false
+29	40	crown-tundra	hatenna		true	true	false	false
+29	41	crown-tundra	hattrem		true	true	false	false
+29	42	crown-tundra	hatterene		true	true	false	false
+29	42	crown-tundra	hatterene-gmax	gmax	true	true	true	false
+29	37	crown-tundra	impidimp		true	true	false	false
+29	38	crown-tundra	morgrem		true	true	false	false
+29	39	crown-tundra	grimmsnarl		true	true	false	false
+29	39	crown-tundra	grimmsnarl-gmax	gmax	true	true	true	false
+29	73	crown-tundra	obstagoon		true	true	false	false
+29	12	crown-tundra	mr-rime		true	true	false	false
+29	158	crown-tundra	pincurchin		true	true	false	false
+29	1	crown-tundra	snom		true	true	false	false
+29	2	crown-tundra	frosmoth		true	true	false	false
+29	89	crown-tundra	stonjourner		true	true	false	false
+29	90	crown-tundra	eiscue-ice	ice	true	true	false	false
+29	90	crown-tundra	eiscue-noice	noice	true	true	true	false
+29	171	crown-tundra	indeedee-male	male	true	true	false	false
+29	171	crown-tundra	indeedee-female	female	true	true	false	false
+29	157	crown-tundra	morpeko-full-belly	full-belly	true	true	false	false
+29	157	crown-tundra	morpeko-hangry	hangry	true	true	true	false
+29	108	crown-tundra	cufant		true	true	false	false
+29	109	crown-tundra	copperajah		true	true	false	false
+29	109	crown-tundra	copperajah-gmax	gmax	true	true	true	false
+29	110	crown-tundra	dreepy		true	true	false	false
+29	111	crown-tundra	drakloak		true	true	false	false
+29	112	crown-tundra	dragapult		true	true	false	false
+29	200	crown-tundra	regieleki		true	true	false	false
+29	201	crown-tundra	regidrago		true	true	false	false
+29	208	crown-tundra	glastrier		true	true	false	false
+29	209	crown-tundra	spectrier		true	true	false	false
+29	210	crown-tundra	calyrex		true	true	false	false
+29	210	crown-tundra	calyrex-ice	ice	true	true	false	false
+29	210	crown-tundra	calyrex-shadow	shadow	true	true	false	false

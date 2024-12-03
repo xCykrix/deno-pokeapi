@@ -1,0 +1,283 @@
+pokedexId	pokedexNumber	pokedexName	formName	formIdentifier	isMainSeries	isDefault	isBattleOnly	isMega
+28	68	isle-of-armor	bulbasaur		true	true	false	false
+28	69	isle-of-armor	ivysaur		true	true	false	false
+28	70	isle-of-armor	venusaur		true	true	false	false
+28	70	isle-of-armor	venusaur-mega	mega	true	true	true	true
+28	70	isle-of-armor	venusaur-gmax	gmax	true	true	true	false
+28	71	isle-of-armor	squirtle		true	true	false	false
+28	72	isle-of-armor	wartortle		true	true	false	false
+28	73	isle-of-armor	blastoise		true	true	false	false
+28	73	isle-of-armor	blastoise-mega	mega	true	true	true	true
+28	73	isle-of-armor	blastoise-gmax	gmax	true	true	true	false
+28	85	isle-of-armor	pikachu		true	true	false	false
+28	85	isle-of-armor	pikachu-rock-star	rock-star	true	true	false	false
+28	85	isle-of-armor	pikachu-belle	belle	true	true	false	false
+28	85	isle-of-armor	pikachu-pop-star	pop-star	true	true	false	false
+28	85	isle-of-armor	pikachu-phd	phd	true	true	false	false
+28	85	isle-of-armor	pikachu-libre	libre	true	true	false	false
+28	85	isle-of-armor	pikachu-cosplay	cosplay	true	true	false	false
+28	85	isle-of-armor	pikachu-original-cap	original-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-hoenn-cap	hoenn-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-sinnoh-cap	sinnoh-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-unova-cap	unova-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-kalos-cap	kalos-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-alola-cap	alola-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-partner-cap	partner-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-starter	starter	true	true	false	false
+28	85	isle-of-armor	pikachu-world-cap	world-cap	true	true	false	false
+28	85	isle-of-armor	pikachu-gmax	gmax	true	true	true	false
+28	86	isle-of-armor	raichu		true	true	false	false
+28	86	isle-of-armor	raichu-alola	alola	true	true	false	false
+28	168	isle-of-armor	sandshrew		true	true	false	false
+28	168	isle-of-armor	sandshrew-alola	alola	true	true	false	false
+28	169	isle-of-armor	sandslash		true	true	false	false
+28	169	isle-of-armor	sandslash-alola	alola	true	true	false	false
+28	12	isle-of-armor	jigglypuff		true	true	false	false
+28	13	isle-of-armor	wigglytuff		true	true	false	false
+28	146	isle-of-armor	psyduck		true	true	false	false
+28	147	isle-of-armor	golduck		true	true	false	false
+28	142	isle-of-armor	poliwag		true	true	false	false
+28	143	isle-of-armor	poliwhirl		true	true	false	false
+28	144	isle-of-armor	poliwrath		true	true	false	false
+28	31	isle-of-armor	abra		true	true	false	false
+28	32	isle-of-armor	kadabra		true	true	false	false
+28	33	isle-of-armor	alakazam		true	true	false	false
+28	33	isle-of-armor	alakazam-mega	mega	true	true	true	true
+28	40	isle-of-armor	tentacool		true	true	false	false
+28	41	isle-of-armor	tentacruel		true	true	false	false
+28	1	isle-of-armor	slowpoke		true	true	false	false
+28	1	isle-of-armor	slowpoke-galar	galar	true	true	false	false
+28	2	isle-of-armor	slowbro		true	true	false	false
+28	2	isle-of-armor	slowbro-mega	mega	true	true	true	true
+28	2	isle-of-armor	slowbro-galar	galar	true	true	false	false
+28	105	isle-of-armor	magnemite		true	true	false	false
+28	106	isle-of-armor	magneton		true	true	false	false
+28	131	isle-of-armor	shellder		true	true	false	false
+28	132	isle-of-armor	cloyster		true	true	false	false
+28	38	isle-of-armor	krabby		true	true	false	false
+28	39	isle-of-armor	kingler		true	true	false	false
+28	39	isle-of-armor	kingler-gmax	gmax	true	true	true	false
+28	205	isle-of-armor	exeggcute		true	true	false	false
+28	206	isle-of-armor	exeggutor		true	true	false	false
+28	206	isle-of-armor	exeggutor-alola	alola	true	true	false	false
+28	170	isle-of-armor	cubone		true	true	false	false
+28	171	isle-of-armor	marowak		true	true	false	false
+28	171	isle-of-armor	marowak-alola	alola	true	true	false	false
+28	171	isle-of-armor	marowak-totem	totem	true	true	false	false
+28	54	isle-of-armor	lickitung		true	true	false	false
+28	183	isle-of-armor	rhyhorn		true	true	false	false
+28	184	isle-of-armor	rhydon		true	true	false	false
+28	7	isle-of-armor	chansey		true	true	false	false
+28	80	isle-of-armor	tangela		true	true	false	false
+28	172	isle-of-armor	kangaskhan		true	true	false	false
+28	172	isle-of-armor	kangaskhan-mega	mega	true	true	true	true
+28	198	isle-of-armor	horsea		true	true	false	false
+28	199	isle-of-armor	seadra		true	true	false	false
+28	94	isle-of-armor	goldeen		true	true	false	false
+28	95	isle-of-armor	seaking		true	true	false	false
+28	98	isle-of-armor	staryu		true	true	false	false
+28	99	isle-of-armor	starmie		true	true	false	false
+28	118	isle-of-armor	scyther		true	true	false	false
+28	120	isle-of-armor	pinsir		true	true	false	false
+28	120	isle-of-armor	pinsir-mega	mega	true	true	true	true
+28	116	isle-of-armor	tauros		true	true	false	false
+28	116	isle-of-armor	tauros-paldea-combat-breed	paldea-combat-breed	true	false	false	false
+28	116	isle-of-armor	tauros-paldea-blaze-breed	paldea-blaze-breed	true	false	false	false
+28	116	isle-of-armor	tauros-paldea-aqua-breed	paldea-aqua-breed	true	false	false	false
+28	42	isle-of-armor	magikarp		true	true	false	false
+28	43	isle-of-armor	gyarados		true	true	false	false
+28	43	isle-of-armor	gyarados-mega	mega	true	true	true	true
+28	207	isle-of-armor	ditto		true	true	false	false
+28	208	isle-of-armor	porygon		true	true	false	false
+28	188	isle-of-armor	chinchou		true	true	false	false
+28	189	isle-of-armor	lanturn		true	true	false	false
+28	84	isle-of-armor	pichu		true	true	false	false
+28	84	isle-of-armor	pichu-spiky-eared	spiky-eared	true	false	false	false
+28	11	isle-of-armor	igglybuff		true	true	false	false
+28	140	isle-of-armor	marill		true	true	false	false
+28	141	isle-of-armor	azumarill		true	true	false	false
+28	145	isle-of-armor	politoed		true	true	false	false
+28	58	isle-of-armor	wooper		true	true	false	false
+28	58	isle-of-armor	wooper-paldea	paldea	true	false	false	false
+28	59	isle-of-armor	quagsire		true	true	false	false
+28	3	isle-of-armor	slowking		true	true	false	false
+28	3	isle-of-armor	slowking-galar	galar	true	true	false	false
+28	52	isle-of-armor	dunsparce		true	true	false	false
+28	119	isle-of-armor	scizor		true	true	false	false
+28	119	isle-of-armor	scizor-mega	mega	true	true	true	true
+28	121	isle-of-armor	heracross		true	true	false	false
+28	121	isle-of-armor	heracross-mega	mega	true	true	true	true
+28	44	isle-of-armor	remoraid		true	true	false	false
+28	45	isle-of-armor	octillery		true	true	false	false
+28	47	isle-of-armor	mantine		true	true	false	false
+28	153	isle-of-armor	skarmory		true	true	false	false
+28	200	isle-of-armor	kingdra		true	true	false	false
+28	209	isle-of-armor	porygon2		true	true	false	false
+28	117	isle-of-armor	miltank		true	true	false	false
+28	8	isle-of-armor	blissey		true	true	false	false
+28	48	isle-of-armor	wingull		true	true	false	false
+28	49	isle-of-armor	pelipper		true	true	false	false
+28	34	isle-of-armor	ralts		true	true	false	false
+28	35	isle-of-armor	kirlia		true	true	false	false
+28	36	isle-of-armor	gardevoir		true	true	false	false
+28	36	isle-of-armor	gardevoir-mega	mega	true	true	true	true
+28	148	isle-of-armor	whismur		true	true	false	false
+28	149	isle-of-armor	loudred		true	true	false	false
+28	150	isle-of-armor	exploud		true	true	false	false
+28	139	isle-of-armor	azurill		true	true	false	false
+28	111	isle-of-armor	carvanha		true	true	false	false
+28	112	isle-of-armor	sharpedo		true	true	false	false
+28	112	isle-of-armor	sharpedo-mega	mega	true	true	true	true
+28	190	isle-of-armor	wailmer		true	true	false	false
+28	191	isle-of-armor	wailord		true	true	false	false
+28	173	isle-of-armor	torkoal		true	true	false	false
+28	137	isle-of-armor	barboach		true	true	false	false
+28	138	isle-of-armor	whiscash		true	true	false	false
+28	91	isle-of-armor	corphish		true	true	false	false
+28	92	isle-of-armor	crawdaunt		true	true	false	false
+28	25	isle-of-armor	shinx		true	true	false	false
+28	26	isle-of-armor	luxio		true	true	false	false
+28	27	isle-of-armor	luxray		true	true	false	false
+28	203	isle-of-armor	combee		true	true	false	false
+28	204	isle-of-armor	vespiquen		true	true	false	false
+28	135	isle-of-armor	drifloon		true	true	false	false
+28	136	isle-of-armor	drifblim		true	true	false	false
+28	4	isle-of-armor	buneary		true	true	false	false
+28	5	isle-of-armor	lopunny		true	true	false	false
+28	5	isle-of-armor	lopunny-mega	mega	true	true	true	true
+28	6	isle-of-armor	happiny		true	true	false	false
+28	50	isle-of-armor	skorupi		true	true	false	false
+28	51	isle-of-armor	drapion		true	true	false	false
+28	82	isle-of-armor	croagunk		true	true	false	false
+28	83	isle-of-armor	toxicroak		true	true	false	false
+28	46	isle-of-armor	mantyke		true	true	false	false
+28	107	isle-of-armor	magnezone		true	true	false	false
+28	55	isle-of-armor	lickilicky		true	true	false	false
+28	185	isle-of-armor	rhyperior		true	true	false	false
+28	81	isle-of-armor	tangrowth		true	true	false	false
+28	210	isle-of-armor	porygon-z		true	true	false	false
+28	37	isle-of-armor	gallade		true	true	false	false
+28	37	isle-of-armor	gallade-mega	mega	true	true	true	true
+28	113	isle-of-armor	lillipup		true	true	false	false
+28	114	isle-of-armor	herdier		true	true	false	false
+28	115	isle-of-armor	stoutland		true	true	false	false
+28	154	isle-of-armor	roggenrola		true	true	false	false
+28	155	isle-of-armor	boldore		true	true	false	false
+28	156	isle-of-armor	gigalith		true	true	false	false
+28	151	isle-of-armor	woobat		true	true	false	false
+28	152	isle-of-armor	swoobat		true	true	false	false
+28	74	isle-of-armor	venipede		true	true	false	false
+28	75	isle-of-armor	whirlipede		true	true	false	false
+28	76	isle-of-armor	scolipede		true	true	false	false
+28	201	isle-of-armor	petilil		true	true	false	false
+28	202	isle-of-armor	lilligant		true	true	false	false
+28	202	isle-of-armor	lilligant-hisui	hisui	true	true	false	false
+28	176	isle-of-armor	sandile		true	true	false	false
+28	177	isle-of-armor	krokorok		true	true	false	false
+28	178	isle-of-armor	krookodile		true	true	false	false
+28	122	isle-of-armor	dwebble		true	true	false	false
+28	123	isle-of-armor	crustle		true	true	false	false
+28	161	isle-of-armor	scraggy		true	true	false	false
+28	162	isle-of-armor	scrafty		true	true	false	false
+28	87	isle-of-armor	zorua		true	true	false	false
+28	87	isle-of-armor	zorua-hisui	hisui	true	true	false	false
+28	88	isle-of-armor	zoroark		true	true	false	false
+28	88	isle-of-armor	zoroark-hisui	hisui	true	true	false	false
+28	102	isle-of-armor	emolga		true	true	false	false
+28	66	isle-of-armor	karrablast		true	true	false	false
+28	67	isle-of-armor	escavalier		true	true	false	false
+28	77	isle-of-armor	foongus		true	true	false	false
+28	78	isle-of-armor	amoonguss		true	true	false	false
+28	192	isle-of-armor	frillish		true	true	false	false
+28	193	isle-of-armor	jellicent		true	true	false	false
+28	64	isle-of-armor	shelmet		true	true	false	false
+28	65	isle-of-armor	accelgor		true	true	false	false
+28	163	isle-of-armor	mienfoo		true	true	false	false
+28	164	isle-of-armor	mienshao		true	true	false	false
+28	63	isle-of-armor	druddigon		true	true	false	false
+28	29	isle-of-armor	pawniard		true	true	false	false
+28	30	isle-of-armor	bisharp		true	true	false	false
+28	53	isle-of-armor	bouffalant		true	true	false	false
+28	179	isle-of-armor	rufflet		true	true	false	false
+28	180	isle-of-armor	braviary		true	true	false	false
+28	180	isle-of-armor	braviary-hisui	hisui	true	true	false	false
+28	181	isle-of-armor	vullaby		true	true	false	false
+28	182	isle-of-armor	mandibuzz		true	true	false	false
+28	186	isle-of-armor	larvesta		true	true	false	false
+28	187	isle-of-armor	volcarona		true	true	false	false
+28	22	isle-of-armor	fletchling		true	true	false	false
+28	23	isle-of-armor	fletchinder		true	true	false	false
+28	24	isle-of-armor	talonflame		true	true	false	false
+28	108	isle-of-armor	inkay		true	true	false	false
+28	109	isle-of-armor	malamar		true	true	false	false
+28	194	isle-of-armor	skrelp		true	true	false	false
+28	195	isle-of-armor	dragalge		true	true	false	false
+28	196	isle-of-armor	clauncher		true	true	false	false
+28	197	isle-of-armor	clawitzer		true	true	false	false
+28	103	isle-of-armor	dedenne		true	true	false	false
+28	60	isle-of-armor	goomy		true	true	false	false
+28	61	isle-of-armor	sliggoo		true	true	false	false
+28	61	isle-of-armor	sliggoo-hisui	hisui	true	true	false	false
+28	62	isle-of-armor	goodra		true	true	false	false
+28	62	isle-of-armor	goodra-hisui	hisui	true	true	false	false
+28	28	isle-of-armor	klefki		true	true	false	false
+28	157	isle-of-armor	rockruff		true	true	false	false
+28	157	isle-of-armor	rockruff-own-tempo	own-tempo	true	true	false	false
+28	158	isle-of-armor	lycanroc-midday	midday	true	true	false	false
+28	158	isle-of-armor	lycanroc-midnight	midnight	true	true	false	false
+28	158	isle-of-armor	lycanroc-dusk	dusk	true	true	false	false
+28	110	isle-of-armor	wishiwashi-solo	solo	true	true	false	false
+28	110	isle-of-armor	wishiwashi-school	school	true	true	true	false
+28	127	isle-of-armor	mareanie		true	true	false	false
+28	128	isle-of-armor	toxapex		true	true	false	false
+28	17	isle-of-armor	fomantis		true	true	false	false
+28	18	isle-of-armor	lurantis		true	true	false	false
+28	18	isle-of-armor	lurantis-totem	totem	true	true	false	false
+28	159	isle-of-armor	salandit		true	true	false	false
+28	160	isle-of-armor	salazzle		true	true	false	false
+28	160	isle-of-armor	salazzle-totem	totem	true	true	false	false
+28	79	isle-of-armor	comfey		true	true	false	false
+28	89	isle-of-armor	oranguru		true	true	false	false
+28	90	isle-of-armor	passimian		true	true	false	false
+28	124	isle-of-armor	wimpod		true	true	false	false
+28	125	isle-of-armor	golisopod		true	true	false	false
+28	133	isle-of-armor	sandygast		true	true	false	false
+28	134	isle-of-armor	palossand		true	true	false	false
+28	165	isle-of-armor	jangmo-o		true	true	false	false
+28	166	isle-of-armor	hakamo-o		true	true	false	false
+28	167	isle-of-armor	kommo-o		true	true	false	false
+28	167	isle-of-armor	kommo-o-totem	totem	true	true	false	false
+28	9	isle-of-armor	skwovet		true	true	false	false
+28	10	isle-of-armor	greedent		true	true	false	false
+28	14	isle-of-armor	blipbug		true	true	false	false
+28	15	isle-of-armor	dottler		true	true	false	false
+28	16	isle-of-armor	orbeetle		true	true	false	false
+28	16	isle-of-armor	orbeetle-gmax	gmax	true	true	true	false
+28	56	isle-of-armor	chewtle		true	true	false	false
+28	57	isle-of-armor	drednaw		true	true	false	false
+28	57	isle-of-armor	drednaw-gmax	gmax	true	true	true	false
+28	19	isle-of-armor	applin		true	true	false	false
+28	20	isle-of-armor	flapple		true	true	false	false
+28	20	isle-of-armor	flapple-gmax	gmax	true	true	true	false
+28	21	isle-of-armor	appletun		true	true	false	false
+28	21	isle-of-armor	appletun-gmax	gmax	true	true	true	false
+28	174	isle-of-armor	silicobra		true	true	false	false
+28	175	isle-of-armor	sandaconda		true	true	false	false
+28	175	isle-of-armor	sandaconda-gmax	gmax	true	true	true	false
+28	93	isle-of-armor	cramorant		true	true	false	false
+28	93	isle-of-armor	cramorant-gulping	gulping	true	true	true	false
+28	93	isle-of-armor	cramorant-gorging	gorging	true	true	true	false
+28	96	isle-of-armor	arrokuda		true	true	false	false
+28	97	isle-of-armor	barraskewda		true	true	false	false
+28	129	isle-of-armor	clobbopus		true	true	false	false
+28	130	isle-of-armor	grapploct		true	true	false	false
+28	126	isle-of-armor	pincurchin		true	true	false	false
+28	104	isle-of-armor	morpeko-full-belly	full-belly	true	true	false	false
+28	104	isle-of-armor	morpeko-hangry	hangry	true	true	true	false
+28	100	isle-of-armor	kubfu		true	true	false	false
+28	101	isle-of-armor	urshifu-single-strike	single-strike	true	true	false	false
+28	101	isle-of-armor	urshifu-rapid-strike	rapid-strike	true	true	false	false
+28	101	isle-of-armor	urshifu-single-strike-gmax	gmax	true	true	true	false
+28	101	isle-of-armor	urshifu-rapid-strike-gmax	gmax	true	true	true	false
+28	211	isle-of-armor	zarude		true	true	false	false
+28	211	isle-of-armor	zarude-dada	dada	true	true	false	false

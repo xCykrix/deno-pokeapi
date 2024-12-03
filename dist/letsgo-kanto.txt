@@ -1,0 +1,236 @@
+pokedexId	pokedexNumber	pokedexName	formName	formIdentifier	isMainSeries	isDefault	isBattleOnly	isMega
+26	1	letsgo-kanto	bulbasaur		true	true	false	false
+26	2	letsgo-kanto	ivysaur		true	true	false	false
+26	3	letsgo-kanto	venusaur		true	true	false	false
+26	3	letsgo-kanto	venusaur-mega	mega	true	true	true	true
+26	3	letsgo-kanto	venusaur-gmax	gmax	true	true	true	false
+26	4	letsgo-kanto	charmander		true	true	false	false
+26	5	letsgo-kanto	charmeleon		true	true	false	false
+26	6	letsgo-kanto	charizard		true	true	false	false
+26	6	letsgo-kanto	charizard-mega-x	mega-x	true	true	true	true
+26	6	letsgo-kanto	charizard-mega-y	mega-y	true	true	true	true
+26	6	letsgo-kanto	charizard-gmax	gmax	true	true	true	false
+26	7	letsgo-kanto	squirtle		true	true	false	false
+26	8	letsgo-kanto	wartortle		true	true	false	false
+26	9	letsgo-kanto	blastoise		true	true	false	false
+26	9	letsgo-kanto	blastoise-mega	mega	true	true	true	true
+26	9	letsgo-kanto	blastoise-gmax	gmax	true	true	true	false
+26	10	letsgo-kanto	caterpie		true	true	false	false
+26	11	letsgo-kanto	metapod		true	true	false	false
+26	12	letsgo-kanto	butterfree		true	true	false	false
+26	12	letsgo-kanto	butterfree-gmax	gmax	true	true	true	false
+26	13	letsgo-kanto	weedle		true	true	false	false
+26	14	letsgo-kanto	kakuna		true	true	false	false
+26	15	letsgo-kanto	beedrill		true	true	false	false
+26	15	letsgo-kanto	beedrill-mega	mega	true	true	true	true
+26	16	letsgo-kanto	pidgey		true	true	false	false
+26	17	letsgo-kanto	pidgeotto		true	true	false	false
+26	18	letsgo-kanto	pidgeot		true	true	false	false
+26	18	letsgo-kanto	pidgeot-mega	mega	true	true	true	true
+26	19	letsgo-kanto	rattata		true	true	false	false
+26	19	letsgo-kanto	rattata-alola	alola	true	true	false	false
+26	20	letsgo-kanto	raticate		true	true	false	false
+26	20	letsgo-kanto	raticate-alola	alola	true	true	false	false
+26	20	letsgo-kanto	raticate-totem-alola	totem-alola	true	true	false	false
+26	21	letsgo-kanto	spearow		true	true	false	false
+26	22	letsgo-kanto	fearow		true	true	false	false
+26	23	letsgo-kanto	ekans		true	true	false	false
+26	24	letsgo-kanto	arbok		true	true	false	false
+26	25	letsgo-kanto	pikachu		true	true	false	false
+26	25	letsgo-kanto	pikachu-rock-star	rock-star	true	true	false	false
+26	25	letsgo-kanto	pikachu-belle	belle	true	true	false	false
+26	25	letsgo-kanto	pikachu-pop-star	pop-star	true	true	false	false
+26	25	letsgo-kanto	pikachu-phd	phd	true	true	false	false
+26	25	letsgo-kanto	pikachu-libre	libre	true	true	false	false
+26	25	letsgo-kanto	pikachu-cosplay	cosplay	true	true	false	false
+26	25	letsgo-kanto	pikachu-original-cap	original-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-hoenn-cap	hoenn-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-sinnoh-cap	sinnoh-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-unova-cap	unova-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-kalos-cap	kalos-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-alola-cap	alola-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-partner-cap	partner-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-starter	starter	true	true	false	false
+26	25	letsgo-kanto	pikachu-world-cap	world-cap	true	true	false	false
+26	25	letsgo-kanto	pikachu-gmax	gmax	true	true	true	false
+26	26	letsgo-kanto	raichu		true	true	false	false
+26	26	letsgo-kanto	raichu-alola	alola	true	true	false	false
+26	27	letsgo-kanto	sandshrew		true	true	false	false
+26	27	letsgo-kanto	sandshrew-alola	alola	true	true	false	false
+26	28	letsgo-kanto	sandslash		true	true	false	false
+26	28	letsgo-kanto	sandslash-alola	alola	true	true	false	false
+26	29	letsgo-kanto	nidoran-f		true	true	false	false
+26	30	letsgo-kanto	nidorina		true	true	false	false
+26	31	letsgo-kanto	nidoqueen		true	true	false	false
+26	32	letsgo-kanto	nidoran-m		true	true	false	false
+26	33	letsgo-kanto	nidorino		true	true	false	false
+26	34	letsgo-kanto	nidoking		true	true	false	false
+26	35	letsgo-kanto	clefairy		true	true	false	false
+26	36	letsgo-kanto	clefable		true	true	false	false
+26	37	letsgo-kanto	vulpix		true	true	false	false
+26	37	letsgo-kanto	vulpix-alola	alola	true	true	false	false
+26	38	letsgo-kanto	ninetales		true	true	false	false
+26	38	letsgo-kanto	ninetales-alola	alola	true	true	false	false
+26	39	letsgo-kanto	jigglypuff		true	true	false	false
+26	40	letsgo-kanto	wigglytuff		true	true	false	false
+26	41	letsgo-kanto	zubat		true	true	false	false
+26	42	letsgo-kanto	golbat		true	true	false	false
+26	43	letsgo-kanto	oddish		true	true	false	false
+26	44	letsgo-kanto	gloom		true	true	false	false
+26	45	letsgo-kanto	vileplume		true	true	false	false
+26	46	letsgo-kanto	paras		true	true	false	false
+26	47	letsgo-kanto	parasect		true	true	false	false
+26	48	letsgo-kanto	venonat		true	true	false	false
+26	49	letsgo-kanto	venomoth		true	true	false	false
+26	50	letsgo-kanto	diglett		true	true	false	false
+26	50	letsgo-kanto	diglett-alola	alola	true	true	false	false
+26	51	letsgo-kanto	dugtrio		true	true	false	false
+26	51	letsgo-kanto	dugtrio-alola	alola	true	true	false	false
+26	52	letsgo-kanto	meowth		true	true	false	false
+26	52	letsgo-kanto	meowth-alola	alola	true	true	false	false
+26	52	letsgo-kanto	meowth-galar	galar	true	true	false	false
+26	52	letsgo-kanto	meowth-gmax	gmax	true	true	true	false
+26	53	letsgo-kanto	persian		true	true	false	false
+26	53	letsgo-kanto	persian-alola	alola	true	true	false	false
+26	54	letsgo-kanto	psyduck		true	true	false	false
+26	55	letsgo-kanto	golduck		true	true	false	false
+26	56	letsgo-kanto	mankey		true	true	false	false
+26	57	letsgo-kanto	primeape		true	true	false	false
+26	58	letsgo-kanto	growlithe		true	true	false	false
+26	58	letsgo-kanto	growlithe-hisui	hisui	true	true	false	false
+26	59	letsgo-kanto	arcanine		true	true	false	false
+26	59	letsgo-kanto	arcanine-hisui	hisui	true	true	false	false
+26	60	letsgo-kanto	poliwag		true	true	false	false
+26	61	letsgo-kanto	poliwhirl		true	true	false	false
+26	62	letsgo-kanto	poliwrath		true	true	false	false
+26	63	letsgo-kanto	abra		true	true	false	false
+26	64	letsgo-kanto	kadabra		true	true	false	false
+26	65	letsgo-kanto	alakazam		true	true	false	false
+26	65	letsgo-kanto	alakazam-mega	mega	true	true	true	true
+26	66	letsgo-kanto	machop		true	true	false	false
+26	67	letsgo-kanto	machoke		true	true	false	false
+26	68	letsgo-kanto	machamp		true	true	false	false
+26	68	letsgo-kanto	machamp-gmax	gmax	true	true	true	false
+26	69	letsgo-kanto	bellsprout		true	true	false	false
+26	70	letsgo-kanto	weepinbell		true	true	false	false
+26	71	letsgo-kanto	victreebel		true	true	false	false
+26	72	letsgo-kanto	tentacool		true	true	false	false
+26	73	letsgo-kanto	tentacruel		true	true	false	false
+26	74	letsgo-kanto	geodude		true	true	false	false
+26	74	letsgo-kanto	geodude-alola	alola	true	true	false	false
+26	75	letsgo-kanto	graveler		true	true	false	false
+26	75	letsgo-kanto	graveler-alola	alola	true	true	false	false
+26	76	letsgo-kanto	golem		true	true	false	false
+26	76	letsgo-kanto	golem-alola	alola	true	true	false	false
+26	77	letsgo-kanto	ponyta		true	true	false	false
+26	77	letsgo-kanto	ponyta-galar	galar	true	true	false	false
+26	78	letsgo-kanto	rapidash		true	true	false	false
+26	78	letsgo-kanto	rapidash-galar	galar	true	true	false	false
+26	79	letsgo-kanto	slowpoke		true	true	false	false
+26	79	letsgo-kanto	slowpoke-galar	galar	true	true	false	false
+26	80	letsgo-kanto	slowbro		true	true	false	false
+26	80	letsgo-kanto	slowbro-mega	mega	true	true	true	true
+26	80	letsgo-kanto	slowbro-galar	galar	true	true	false	false
+26	81	letsgo-kanto	magnemite		true	true	false	false
+26	82	letsgo-kanto	magneton		true	true	false	false
+26	83	letsgo-kanto	farfetchd		true	true	false	false
+26	83	letsgo-kanto	farfetchd-galar	galar	true	true	false	false
+26	84	letsgo-kanto	doduo		true	true	false	false
+26	85	letsgo-kanto	dodrio		true	true	false	false
+26	86	letsgo-kanto	seel		true	true	false	false
+26	87	letsgo-kanto	dewgong		true	true	false	false
+26	88	letsgo-kanto	grimer		true	true	false	false
+26	88	letsgo-kanto	grimer-alola	alola	true	true	false	false
+26	89	letsgo-kanto	muk		true	true	false	false
+26	89	letsgo-kanto	muk-alola	alola	true	true	false	false
+26	90	letsgo-kanto	shellder		true	true	false	false
+26	91	letsgo-kanto	cloyster		true	true	false	false
+26	92	letsgo-kanto	gastly		true	true	false	false
+26	93	letsgo-kanto	haunter		true	true	false	false
+26	94	letsgo-kanto	gengar		true	true	false	false
+26	94	letsgo-kanto	gengar-mega	mega	true	true	true	true
+26	94	letsgo-kanto	gengar-gmax	gmax	true	true	true	false
+26	95	letsgo-kanto	onix		true	true	false	false
+26	96	letsgo-kanto	drowzee		true	true	false	false
+26	97	letsgo-kanto	hypno		true	true	false	false
+26	98	letsgo-kanto	krabby		true	true	false	false
+26	99	letsgo-kanto	kingler		true	true	false	false
+26	99	letsgo-kanto	kingler-gmax	gmax	true	true	true	false
+26	100	letsgo-kanto	voltorb		true	true	false	false
+26	100	letsgo-kanto	voltorb-hisui	hisui	true	true	false	false
+26	101	letsgo-kanto	electrode		true	true	false	false
+26	101	letsgo-kanto	electrode-hisui	hisui	true	true	false	false
+26	102	letsgo-kanto	exeggcute		true	true	false	false
+26	103	letsgo-kanto	exeggutor		true	true	false	false
+26	103	letsgo-kanto	exeggutor-alola	alola	true	true	false	false
+26	104	letsgo-kanto	cubone		true	true	false	false
+26	105	letsgo-kanto	marowak		true	true	false	false
+26	105	letsgo-kanto	marowak-alola	alola	true	true	false	false
+26	105	letsgo-kanto	marowak-totem	totem	true	true	false	false
+26	106	letsgo-kanto	hitmonlee		true	true	false	false
+26	107	letsgo-kanto	hitmonchan		true	true	false	false
+26	108	letsgo-kanto	lickitung		true	true	false	false
+26	109	letsgo-kanto	koffing		true	true	false	false
+26	110	letsgo-kanto	weezing		true	true	false	false
+26	110	letsgo-kanto	weezing-galar	galar	true	true	false	false
+26	111	letsgo-kanto	rhyhorn		true	true	false	false
+26	112	letsgo-kanto	rhydon		true	true	false	false
+26	113	letsgo-kanto	chansey		true	true	false	false
+26	114	letsgo-kanto	tangela		true	true	false	false
+26	115	letsgo-kanto	kangaskhan		true	true	false	false
+26	115	letsgo-kanto	kangaskhan-mega	mega	true	true	true	true
+26	116	letsgo-kanto	horsea		true	true	false	false
+26	117	letsgo-kanto	seadra		true	true	false	false
+26	118	letsgo-kanto	goldeen		true	true	false	false
+26	119	letsgo-kanto	seaking		true	true	false	false
+26	120	letsgo-kanto	staryu		true	true	false	false
+26	121	letsgo-kanto	starmie		true	true	false	false
+26	122	letsgo-kanto	mr-mime		true	true	false	false
+26	122	letsgo-kanto	mr-mime-galar	galar	true	true	false	false
+26	123	letsgo-kanto	scyther		true	true	false	false
+26	124	letsgo-kanto	jynx		true	true	false	false
+26	125	letsgo-kanto	electabuzz		true	true	false	false
+26	126	letsgo-kanto	magmar		true	true	false	false
+26	127	letsgo-kanto	pinsir		true	true	false	false
+26	127	letsgo-kanto	pinsir-mega	mega	true	true	true	true
+26	128	letsgo-kanto	tauros		true	true	false	false
+26	128	letsgo-kanto	tauros-paldea-combat-breed	paldea-combat-breed	true	false	false	false
+26	128	letsgo-kanto	tauros-paldea-blaze-breed	paldea-blaze-breed	true	false	false	false
+26	128	letsgo-kanto	tauros-paldea-aqua-breed	paldea-aqua-breed	true	false	false	false
+26	129	letsgo-kanto	magikarp		true	true	false	false
+26	130	letsgo-kanto	gyarados		true	true	false	false
+26	130	letsgo-kanto	gyarados-mega	mega	true	true	true	true
+26	131	letsgo-kanto	lapras		true	true	false	false
+26	131	letsgo-kanto	lapras-gmax	gmax	true	true	true	false
+26	132	letsgo-kanto	ditto		true	true	false	false
+26	133	letsgo-kanto	eevee		true	true	false	false
+26	133	letsgo-kanto	eevee-starter	starter	true	true	false	false
+26	133	letsgo-kanto	eevee-gmax	gmax	true	true	true	false
+26	134	letsgo-kanto	vaporeon		true	true	false	false
+26	135	letsgo-kanto	jolteon		true	true	false	false
+26	136	letsgo-kanto	flareon		true	true	false	false
+26	137	letsgo-kanto	porygon		true	true	false	false
+26	138	letsgo-kanto	omanyte		true	true	false	false
+26	139	letsgo-kanto	omastar		true	true	false	false
+26	140	letsgo-kanto	kabuto		true	true	false	false
+26	141	letsgo-kanto	kabutops		true	true	false	false
+26	142	letsgo-kanto	aerodactyl		true	true	false	false
+26	142	letsgo-kanto	aerodactyl-mega	mega	true	true	true	true
+26	143	letsgo-kanto	snorlax		true	true	false	false
+26	143	letsgo-kanto	snorlax-gmax	gmax	true	true	true	false
+26	144	letsgo-kanto	articuno		true	true	false	false
+26	144	letsgo-kanto	articuno-galar	galar	true	true	false	false
+26	145	letsgo-kanto	zapdos		true	true	false	false
+26	145	letsgo-kanto	zapdos-galar	galar	true	true	false	false
+26	146	letsgo-kanto	moltres		true	true	false	false
+26	146	letsgo-kanto	moltres-galar	galar	true	true	false	false
+26	147	letsgo-kanto	dratini		true	true	false	false
+26	148	letsgo-kanto	dragonair		true	true	false	false
+26	149	letsgo-kanto	dragonite		true	true	false	false
+26	150	letsgo-kanto	mewtwo		true	true	false	false
+26	150	letsgo-kanto	mewtwo-mega-x	mega-x	true	true	true	true
+26	150	letsgo-kanto	mewtwo-mega-y	mega-y	true	true	true	true
+26	151	letsgo-kanto	mew		true	true	false	false
+26	152	letsgo-kanto	meltan		true	true	false	false
+26	153	letsgo-kanto	melmetal		true	true	false	false
+26	153	letsgo-kanto	melmetal-gmax	gmax	true	true	true	false

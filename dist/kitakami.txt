@@ -1,0 +1,279 @@
+pokedexId	pokedexNumber	pokedexName	formName	formIdentifier	isMainSeries	isDefault	isBattleOnly	isMega
+32	18	kitakami	ekans		true	true	false	false
+32	19	kitakami	arbok		true	true	false	false
+32	21	kitakami	pikachu		true	true	false	false
+32	21	kitakami	pikachu-rock-star	rock-star	true	true	false	false
+32	21	kitakami	pikachu-belle	belle	true	true	false	false
+32	21	kitakami	pikachu-pop-star	pop-star	true	true	false	false
+32	21	kitakami	pikachu-phd	phd	true	true	false	false
+32	21	kitakami	pikachu-libre	libre	true	true	false	false
+32	21	kitakami	pikachu-cosplay	cosplay	true	true	false	false
+32	21	kitakami	pikachu-original-cap	original-cap	true	true	false	false
+32	21	kitakami	pikachu-hoenn-cap	hoenn-cap	true	true	false	false
+32	21	kitakami	pikachu-sinnoh-cap	sinnoh-cap	true	true	false	false
+32	21	kitakami	pikachu-unova-cap	unova-cap	true	true	false	false
+32	21	kitakami	pikachu-kalos-cap	kalos-cap	true	true	false	false
+32	21	kitakami	pikachu-alola-cap	alola-cap	true	true	false	false
+32	21	kitakami	pikachu-partner-cap	partner-cap	true	true	false	false
+32	21	kitakami	pikachu-starter	starter	true	true	false	false
+32	21	kitakami	pikachu-world-cap	world-cap	true	true	false	false
+32	21	kitakami	pikachu-gmax	gmax	true	true	true	false
+32	22	kitakami	raichu		true	true	false	false
+32	22	kitakami	raichu-alola	alola	true	true	false	false
+32	116	kitakami	sandshrew		true	true	false	false
+32	116	kitakami	sandshrew-alola	alola	true	true	false	false
+32	117	kitakami	sandslash		true	true	false	false
+32	117	kitakami	sandslash-alola	alola	true	true	false	false
+32	152	kitakami	clefairy		true	true	false	false
+32	153	kitakami	clefable		true	true	false	false
+32	37	kitakami	vulpix		true	true	false	false
+32	37	kitakami	vulpix-alola	alola	true	true	false	false
+32	38	kitakami	ninetales		true	true	false	false
+32	38	kitakami	ninetales-alola	alola	true	true	false	false
+32	99	kitakami	mankey		true	true	false	false
+32	100	kitakami	primeape		true	true	false	false
+32	78	kitakami	growlithe		true	true	false	false
+32	78	kitakami	growlithe-hisui	hisui	true	true	false	false
+32	79	kitakami	arcanine		true	true	false	false
+32	79	kitakami	arcanine-hisui	hisui	true	true	false	false
+32	39	kitakami	poliwag		true	true	false	false
+32	40	kitakami	poliwhirl		true	true	false	false
+32	41	kitakami	poliwrath		true	true	false	false
+32	23	kitakami	bellsprout		true	true	false	false
+32	24	kitakami	weepinbell		true	true	false	false
+32	25	kitakami	victreebel		true	true	false	false
+32	80	kitakami	geodude		true	true	false	false
+32	80	kitakami	geodude-alola	alola	true	true	false	false
+32	81	kitakami	graveler		true	true	false	false
+32	81	kitakami	graveler-alola	alola	true	true	false	false
+32	82	kitakami	golem		true	true	false	false
+32	82	kitakami	golem-alola	alola	true	true	false	false
+32	118	kitakami	gastly		true	true	false	false
+32	119	kitakami	haunter		true	true	false	false
+32	120	kitakami	gengar		true	true	false	false
+32	120	kitakami	gengar-mega	mega	true	true	true	true
+32	120	kitakami	gengar-gmax	gmax	true	true	true	false
+32	135	kitakami	koffing		true	true	false	false
+32	136	kitakami	weezing		true	true	false	false
+32	136	kitakami	weezing-galar	galar	true	true	false	false
+32	43	kitakami	magikarp		true	true	false	false
+32	44	kitakami	gyarados		true	true	false	false
+32	44	kitakami	gyarados-mega	mega	true	true	true	true
+32	103	kitakami	snorlax		true	true	false	false
+32	103	kitakami	snorlax-gmax	gmax	true	true	true	false
+32	26	kitakami	sentret		true	true	false	false
+32	27	kitakami	furret		true	true	false	false
+32	45	kitakami	hoothoot		true	true	false	false
+32	46	kitakami	noctowl		true	true	false	false
+32	1	kitakami	spinarak		true	true	false	false
+32	2	kitakami	ariados		true	true	false	false
+32	20	kitakami	pichu		true	true	false	false
+32	20	kitakami	pichu-spiky-eared	spiky-eared	true	false	false	false
+32	151	kitakami	cleffa		true	true	false	false
+32	84	kitakami	sudowoodo		true	true	false	false
+32	42	kitakami	politoed		true	true	false	false
+32	47	kitakami	aipom		true	true	false	false
+32	3	kitakami	yanma		true	true	false	false
+32	5	kitakami	wooper		true	true	false	false
+32	5	kitakami	wooper-paldea	paldea	true	false	false	false
+32	6	kitakami	quagsire		true	true	false	false
+32	160	kitakami	dunsparce		true	true	false	false
+32	121	kitakami	gligar		true	true	false	false
+32	49	kitakami	heracross		true	true	false	false
+32	49	kitakami	heracross-mega	mega	true	true	true	true
+32	170	kitakami	sneasel		true	true	false	false
+32	170	kitakami	sneasel-hisui	hisui	true	true	false	false
+32	144	kitakami	slugma		true	true	false	false
+32	145	kitakami	magcargo		true	true	false	false
+32	50	kitakami	swinub		true	true	false	false
+32	51	kitakami	piloswine		true	true	false	false
+32	123	kitakami	houndour		true	true	false	false
+32	124	kitakami	houndoom		true	true	false	false
+32	124	kitakami	houndoom-mega	mega	true	true	true	true
+32	53	kitakami	stantler		true	true	false	false
+32	7	kitakami	poochyena		true	true	false	false
+32	8	kitakami	mightyena		true	true	false	false
+32	104	kitakami	lotad		true	true	false	false
+32	105	kitakami	lombre		true	true	false	false
+32	106	kitakami	ludicolo		true	true	false	false
+32	54	kitakami	seedot		true	true	false	false
+32	55	kitakami	nuzleaf		true	true	false	false
+32	56	kitakami	shiftry		true	true	false	false
+32	57	kitakami	ralts		true	true	false	false
+32	58	kitakami	kirlia		true	true	false	false
+32	59	kitakami	gardevoir		true	true	false	false
+32	59	kitakami	gardevoir-mega	mega	true	true	true	true
+32	149	kitakami	surskit		true	true	false	false
+32	150	kitakami	masquerain		true	true	false	false
+32	107	kitakami	nosepass		true	true	false	false
+32	9	kitakami	volbeat		true	true	false	false
+32	10	kitakami	illumise		true	true	false	false
+32	125	kitakami	spoink		true	true	false	false
+32	126	kitakami	grumpig		true	true	false	false
+32	162	kitakami	barboach		true	true	false	false
+32	163	kitakami	whiscash		true	true	false	false
+32	11	kitakami	corphish		true	true	false	false
+32	12	kitakami	crawdaunt		true	true	false	false
+32	158	kitakami	feebas		true	true	false	false
+32	159	kitakami	milotic		true	true	false	false
+32	139	kitakami	duskull		true	true	false	false
+32	140	kitakami	dusclops		true	true	false	false
+32	143	kitakami	chimecho		true	true	false	false
+32	172	kitakami	snorunt		true	true	false	false
+32	173	kitakami	glalie		true	true	false	false
+32	173	kitakami	glalie-mega	mega	true	true	true	true
+32	28	kitakami	starly		true	true	false	false
+32	29	kitakami	staravia		true	true	false	false
+32	30	kitakami	staraptor		true	true	false	false
+32	61	kitakami	kricketot		true	true	false	false
+32	62	kitakami	kricketune		true	true	false	false
+32	109	kitakami	shinx		true	true	false	false
+32	110	kitakami	luxio		true	true	false	false
+32	111	kitakami	luxray		true	true	false	false
+32	63	kitakami	pachirisu		true	true	false	false
+32	48	kitakami	ambipom		true	true	false	false
+32	142	kitakami	chingling		true	true	false	false
+32	154	kitakami	bronzor		true	true	false	false
+32	155	kitakami	bronzong		true	true	false	false
+32	83	kitakami	bonsly		true	true	false	false
+32	164	kitakami	gible		true	true	false	false
+32	165	kitakami	gabite		true	true	false	false
+32	166	kitakami	garchomp		true	true	false	false
+32	166	kitakami	garchomp-mega	mega	true	true	true	true
+32	102	kitakami	munchlax		true	true	false	false
+32	64	kitakami	riolu		true	true	false	false
+32	65	kitakami	lucario		true	true	false	false
+32	65	kitakami	lucario-mega	mega	true	true	true	true
+32	171	kitakami	weavile		true	true	false	false
+32	4	kitakami	yanmega		true	true	false	false
+32	122	kitakami	gliscor		true	true	false	false
+32	52	kitakami	mamoswine		true	true	false	false
+32	60	kitakami	gallade		true	true	false	false
+32	60	kitakami	gallade-mega	mega	true	true	true	true
+32	108	kitakami	probopass		true	true	false	false
+32	141	kitakami	dusknoir		true	true	false	false
+32	174	kitakami	froslass		true	true	false	false
+32	85	kitakami	timburr		true	true	false	false
+32	86	kitakami	gurdurr		true	true	false	false
+32	87	kitakami	conkeldurr		true	true	false	false
+32	13	kitakami	sewaddle		true	true	false	false
+32	14	kitakami	swadloon		true	true	false	false
+32	15	kitakami	leavanny		true	true	false	false
+32	66	kitakami	petilil		true	true	false	false
+32	67	kitakami	lilligant		true	true	false	false
+32	67	kitakami	lilligant-hisui	hisui	true	true	false	false
+32	194	kitakami	basculin-red-striped	red-striped	true	true	false	false
+32	194	kitakami	basculin-blue-striped	blue-striped	true	true	false	false
+32	194	kitakami	basculin-white-striped	white-striped	true	true	false	false
+32	181	kitakami	ducklett		true	true	false	false
+32	182	kitakami	swanna		true	true	false	false
+32	175	kitakami	tynamo		true	true	false	false
+32	176	kitakami	eelektrik		true	true	false	false
+32	177	kitakami	eelektross		true	true	false	false
+32	146	kitakami	litwick		true	true	false	false
+32	147	kitakami	lampent		true	true	false	false
+32	148	kitakami	chandelure		true	true	false	false
+32	137	kitakami	mienfoo		true	true	false	false
+32	138	kitakami	mienshao		true	true	false	false
+32	186	kitakami	pawniard		true	true	false	false
+32	187	kitakami	bisharp		true	true	false	false
+32	127	kitakami	vullaby		true	true	false	false
+32	128	kitakami	mandibuzz		true	true	false	false
+32	167	kitakami	carbink		true	true	false	false
+32	178	kitakami	goomy		true	true	false	false
+32	179	kitakami	sliggoo		true	true	false	false
+32	179	kitakami	sliggoo-hisui	hisui	true	true	false	false
+32	180	kitakami	goodra		true	true	false	false
+32	180	kitakami	goodra-hisui	hisui	true	true	false	false
+32	68	kitakami	phantump		true	true	false	false
+32	69	kitakami	trevenant		true	true	false	false
+32	88	kitakami	noibat		true	true	false	false
+32	89	kitakami	noivern		true	true	false	false
+32	112	kitakami	grubbin		true	true	false	false
+32	113	kitakami	charjabug		true	true	false	false
+32	114	kitakami	vikavolt		true	true	false	false
+32	114	kitakami	vikavolt-totem	totem	true	true	false	false
+32	115	kitakami	oricorio-baile	baile	true	true	false	false
+32	115	kitakami	oricorio-pom-pom	pom-pom	true	true	false	false
+32	115	kitakami	oricorio-pau	pau	true	true	false	false
+32	115	kitakami	oricorio-sensu	sensu	true	true	false	false
+32	16	kitakami	cutiefly		true	true	false	false
+32	17	kitakami	ribombee		true	true	false	false
+32	17	kitakami	ribombee-totem	totem	true	true	false	false
+32	70	kitakami	rockruff		true	true	false	false
+32	70	kitakami	rockruff-own-tempo	own-tempo	true	true	false	false
+32	71	kitakami	lycanroc-midday	midday	true	true	false	false
+32	71	kitakami	lycanroc-midnight	midnight	true	true	false	false
+32	71	kitakami	lycanroc-dusk	dusk	true	true	false	false
+32	129	kitakami	mudbray		true	true	false	false
+32	130	kitakami	mudsdale		true	true	false	false
+32	31	kitakami	fomantis		true	true	false	false
+32	32	kitakami	lurantis		true	true	false	false
+32	32	kitakami	lurantis-totem	totem	true	true	false	false
+32	168	kitakami	salandit		true	true	false	false
+32	169	kitakami	salazzle		true	true	false	false
+32	169	kitakami	salazzle-totem	totem	true	true	false	false
+32	189	kitakami	mimikyu-disguised	disguised	true	true	false	false
+32	189	kitakami	mimikyu-busted	busted	true	true	true	false
+32	189	kitakami	mimikyu-totem-disguised	totem-disguised	true	true	false	false
+32	189	kitakami	mimikyu-totem-busted	totem-busted	true	true	true	false
+32	131	kitakami	jangmo-o		true	true	false	false
+32	132	kitakami	hakamo-o		true	true	false	false
+32	133	kitakami	kommo-o		true	true	false	false
+32	133	kitakami	kommo-o-totem	totem	true	true	false	false
+32	72	kitakami	skwovet		true	true	false	false
+32	73	kitakami	greedent		true	true	false	false
+32	183	kitakami	chewtle		true	true	false	false
+32	184	kitakami	drednaw		true	true	false	false
+32	184	kitakami	drednaw-gmax	gmax	true	true	true	false
+32	33	kitakami	applin		true	true	false	false
+32	34	kitakami	flapple		true	true	false	false
+32	34	kitakami	flapple-gmax	gmax	true	true	true	false
+32	35	kitakami	appletun		true	true	false	false
+32	35	kitakami	appletun-gmax	gmax	true	true	true	false
+32	185	kitakami	cramorant		true	true	false	false
+32	185	kitakami	cramorant-gulping	gulping	true	true	true	false
+32	185	kitakami	cramorant-gorging	gorging	true	true	true	false
+32	90	kitakami	arrokuda		true	true	false	false
+32	91	kitakami	barraskewda		true	true	false	false
+32	92	kitakami	hatenna		true	true	false	false
+32	93	kitakami	hattrem		true	true	false	false
+32	94	kitakami	hatterene		true	true	false	false
+32	94	kitakami	hatterene-gmax	gmax	true	true	true	false
+32	190	kitakami	impidimp		true	true	false	false
+32	191	kitakami	morgrem		true	true	false	false
+32	192	kitakami	grimmsnarl		true	true	false	false
+32	192	kitakami	grimmsnarl-gmax	gmax	true	true	true	false
+32	193	kitakami	indeedee-male	male	true	true	false	false
+32	193	kitakami	indeedee-female	female	true	true	false	false
+32	95	kitakami	morpeko-full-belly	full-belly	true	true	false	false
+32	95	kitakami	morpeko-hangry	hangry	true	true	true	false
+32	196	kitakami	ursaluna		true	true	false	false
+32	196	kitakami	ursaluna-bloodmoon	bloodmoon	true	false	false	false
+32	195	kitakami	basculegion-male	male	true	true	false	false
+32	195	kitakami	basculegion-female	female	true	true	false	false
+32	97	kitakami	tandemaus		true	true	false	false
+32	98	kitakami	maushold-family-of-four	family-of-four	true	true	false	false
+32	98	kitakami	maushold-family-of-three	family-of-three	true	false	false	false
+32	74	kitakami	toedscool		true	true	false	false
+32	75	kitakami	toedscruel		true	true	false	false
+32	134	kitakami	bombirdier		true	true	false	false
+32	96	kitakami	orthworm		true	true	false	false
+32	156	kitakami	glimmet		true	true	false	false
+32	157	kitakami	glimmora		true	true	false	false
+32	101	kitakami	annihilape		true	true	false	false
+32	161	kitakami	dudunsparce-two-segment	two-segment	true	true	false	false
+32	161	kitakami	dudunsparce-three-segment	three-segment	true	false	false	false
+32	188	kitakami	kingambit		true	true	false	false
+32	36	kitakami	dipplin		true	true	false	false
+32	76	kitakami	poltchageist-counterfeit	counterfeit	true	true	false	false
+32	76	kitakami	poltchageist-artisan	artisan	true	false	false	false
+32	77	kitakami	sinistcha-unremarkable	unremarkable	true	true	false	false
+32	77	kitakami	sinistcha-masterpiece	masterpiece	true	false	false	false
+32	197	kitakami	okidogi		true	true	false	false
+32	198	kitakami	munkidori		true	true	false	false
+32	199	kitakami	fezandipiti		true	true	false	false
+32	200	kitakami	ogerpon		true	true	false	false
+32	200	kitakami	ogerpon-wellspring-mask	wellspring-mask	true	false	false	false
+32	200	kitakami	ogerpon-hearthflame-mask	hearthflame-mask	true	false	false	false
+32	200	kitakami	ogerpon-cornerstone-mask	cornerstone-mask	true	false	false	false

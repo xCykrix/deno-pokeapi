@@ -1,0 +1,610 @@
+pokedexId	pokedexNumber	pokedexName	formName	formIdentifier	isMainSeries	isDefault	isBattleOnly	isMega
+27	378	galar	charmander		true	true	false	false
+27	379	galar	charmeleon		true	true	false	false
+27	380	galar	charizard		true	true	false	false
+27	380	galar	charizard-mega-x	mega-x	true	true	true	true
+27	380	galar	charizard-mega-y	mega-y	true	true	true	true
+27	380	galar	charizard-gmax	gmax	true	true	true	false
+27	13	galar	caterpie		true	true	false	false
+27	14	galar	metapod		true	true	false	false
+27	15	galar	butterfree		true	true	false	false
+27	15	galar	butterfree-gmax	gmax	true	true	true	false
+27	194	galar	pikachu		true	true	false	false
+27	194	galar	pikachu-rock-star	rock-star	true	true	false	false
+27	194	galar	pikachu-belle	belle	true	true	false	false
+27	194	galar	pikachu-pop-star	pop-star	true	true	false	false
+27	194	galar	pikachu-phd	phd	true	true	false	false
+27	194	galar	pikachu-libre	libre	true	true	false	false
+27	194	galar	pikachu-cosplay	cosplay	true	true	false	false
+27	194	galar	pikachu-original-cap	original-cap	true	true	false	false
+27	194	galar	pikachu-hoenn-cap	hoenn-cap	true	true	false	false
+27	194	galar	pikachu-sinnoh-cap	sinnoh-cap	true	true	false	false
+27	194	galar	pikachu-unova-cap	unova-cap	true	true	false	false
+27	194	galar	pikachu-kalos-cap	kalos-cap	true	true	false	false
+27	194	galar	pikachu-alola-cap	alola-cap	true	true	false	false
+27	194	galar	pikachu-partner-cap	partner-cap	true	true	false	false
+27	194	galar	pikachu-starter	starter	true	true	false	false
+27	194	galar	pikachu-world-cap	world-cap	true	true	false	false
+27	194	galar	pikachu-gmax	gmax	true	true	true	false
+27	195	galar	raichu		true	true	false	false
+27	195	galar	raichu-alola	alola	true	true	false	false
+27	255	galar	clefairy		true	true	false	false
+27	256	galar	clefable		true	true	false	false
+27	68	galar	vulpix		true	true	false	false
+27	68	galar	vulpix-alola	alola	true	true	false	false
+27	69	galar	ninetales		true	true	false	false
+27	69	galar	ninetales-alola	alola	true	true	false	false
+27	55	galar	oddish		true	true	false	false
+27	56	galar	gloom		true	true	false	false
+27	57	galar	vileplume		true	true	false	false
+27	164	galar	diglett		true	true	false	false
+27	164	galar	diglett-alola	alola	true	true	false	false
+27	165	galar	dugtrio		true	true	false	false
+27	165	galar	dugtrio-alola	alola	true	true	false	false
+27	182	galar	meowth		true	true	false	false
+27	182	galar	meowth-alola	alola	true	true	false	false
+27	182	galar	meowth-galar	galar	true	true	false	false
+27	182	galar	meowth-gmax	gmax	true	true	true	false
+27	184	galar	persian		true	true	false	false
+27	184	galar	persian-alola	alola	true	true	false	false
+27	70	galar	growlithe		true	true	false	false
+27	70	galar	growlithe-hisui	hisui	true	true	false	false
+27	71	galar	arcanine		true	true	false	false
+27	71	galar	arcanine-hisui	hisui	true	true	false	false
+27	138	galar	machop		true	true	false	false
+27	139	galar	machoke		true	true	false	false
+27	140	galar	machamp		true	true	false	false
+27	140	galar	machamp-gmax	gmax	true	true	true	false
+27	333	galar	ponyta		true	true	false	false
+27	333	galar	ponyta-galar	galar	true	true	false	false
+27	334	galar	rapidash		true	true	false	false
+27	334	galar	rapidash-galar	galar	true	true	false	false
+27	218	galar	farfetchd		true	true	false	false
+27	218	galar	farfetchd-galar	galar	true	true	false	false
+27	150	galar	shellder		true	true	false	false
+27	151	galar	cloyster		true	true	false	false
+27	141	galar	gastly		true	true	false	false
+27	142	galar	haunter		true	true	false	false
+27	143	galar	gengar		true	true	false	false
+27	143	galar	gengar-mega	mega	true	true	true	true
+27	143	galar	gengar-gmax	gmax	true	true	true	false
+27	178	galar	onix		true	true	false	false
+27	98	galar	krabby		true	true	false	false
+27	99	galar	kingler		true	true	false	false
+27	99	galar	kingler-gmax	gmax	true	true	true	false
+27	108	galar	hitmonlee		true	true	false	false
+27	109	galar	hitmonchan		true	true	false	false
+27	250	galar	koffing		true	true	false	false
+27	251	galar	weezing		true	true	false	false
+27	251	galar	weezing-galar	galar	true	true	false	false
+27	264	galar	rhyhorn		true	true	false	false
+27	265	galar	rhydon		true	true	false	false
+27	146	galar	goldeen		true	true	false	false
+27	147	galar	seaking		true	true	false	false
+27	365	galar	mr-mime		true	true	false	false
+27	365	galar	mr-mime-galar	galar	true	true	false	false
+27	144	galar	magikarp		true	true	false	false
+27	145	galar	gyarados		true	true	false	false
+27	145	galar	gyarados-mega	mega	true	true	true	true
+27	361	galar	lapras		true	true	false	false
+27	361	galar	lapras-gmax	gmax	true	true	true	false
+27	373	galar	ditto		true	true	false	false
+27	196	galar	eevee		true	true	false	false
+27	196	galar	eevee-starter	starter	true	true	false	false
+27	196	galar	eevee-gmax	gmax	true	true	true	false
+27	197	galar	vaporeon		true	true	false	false
+27	198	galar	jolteon		true	true	false	false
+27	199	galar	flareon		true	true	false	false
+27	261	galar	snorlax		true	true	false	false
+27	261	galar	snorlax-gmax	gmax	true	true	true	false
+27	19	galar	hoothoot		true	true	false	false
+27	20	galar	noctowl		true	true	false	false
+27	220	galar	chinchou		true	true	false	false
+27	221	galar	lanturn		true	true	false	false
+27	193	galar	pichu		true	true	false	false
+27	193	galar	pichu-spiky-eared	spiky-eared	true	false	false	false
+27	254	galar	cleffa		true	true	false	false
+27	257	galar	togepi		true	true	false	false
+27	258	galar	togetic		true	true	false	false
+27	92	galar	natu		true	true	false	false
+27	93	galar	xatu		true	true	false	false
+27	58	galar	bellossom		true	true	false	false
+27	253	galar	sudowoodo		true	true	false	false
+27	100	galar	wooper		true	true	false	false
+27	100	galar	wooper-paldea	paldea	true	false	false	false
+27	101	galar	quagsire		true	true	false	false
+27	200	galar	espeon		true	true	false	false
+27	201	galar	umbreon		true	true	false	false
+27	217	galar	wobbuffet		true	true	false	false
+27	179	galar	steelix		true	true	false	false
+27	179	galar	steelix-mega	mega	true	true	true	true
+27	304	galar	qwilfish		true	true	false	false
+27	304	galar	qwilfish-hisui	hisui	true	true	false	false
+27	227	galar	shuckle		true	true	false	false
+27	292	galar	sneasel		true	true	false	false
+27	292	galar	sneasel-hisui	hisui	true	true	false	false
+27	75	galar	swinub		true	true	false	false
+27	76	galar	piloswine		true	true	false	false
+27	236	galar	corsola		true	true	false	false
+27	236	galar	corsola-galar	galar	true	true	false	false
+27	148	galar	remoraid		true	true	false	false
+27	149	galar	octillery		true	true	false	false
+27	78	galar	delibird		true	true	false	false
+27	355	galar	mantine		true	true	false	false
+27	107	galar	tyrogue		true	true	false	false
+27	110	galar	hitmontop		true	true	false	false
+27	383	galar	larvitar		true	true	false	false
+27	384	galar	pupitar		true	true	false	false
+27	385	galar	tyranitar		true	true	false	false
+27	385	galar	tyranitar-mega	mega	true	true	true	true
+27	31	galar	zigzagoon		true	true	false	false
+27	31	galar	zigzagoon-galar	galar	true	true	false	false
+27	32	galar	linoone		true	true	false	false
+27	32	galar	linoone-galar	galar	true	true	false	false
+27	36	galar	lotad		true	true	false	false
+27	37	galar	lombre		true	true	false	false
+27	38	galar	ludicolo		true	true	false	false
+27	39	galar	seedot		true	true	false	false
+27	40	galar	nuzleaf		true	true	false	false
+27	41	galar	shiftry		true	true	false	false
+27	62	galar	wingull		true	true	false	false
+27	63	galar	pelipper		true	true	false	false
+27	120	galar	ralts		true	true	false	false
+27	121	galar	kirlia		true	true	false	false
+27	122	galar	gardevoir		true	true	false	false
+27	122	galar	gardevoir-mega	mega	true	true	true	true
+27	104	galar	nincada		true	true	false	false
+27	105	galar	ninjask		true	true	false	false
+27	106	galar	shedinja		true	true	false	false
+27	294	galar	sableye		true	true	false	false
+27	294	galar	sableye-mega	mega	true	true	true	true
+27	295	galar	mawile		true	true	false	false
+27	295	galar	mawile-mega	mega	true	true	true	true
+27	66	galar	electrike		true	true	false	false
+27	67	galar	manectric		true	true	false	false
+27	67	galar	manectric-mega	mega	true	true	true	true
+27	60	galar	roselia		true	true	false	false
+27	356	galar	wailmer		true	true	false	false
+27	357	galar	wailord		true	true	false	false
+27	300	galar	torkoal		true	true	false	false
+27	321	galar	trapinch		true	true	false	false
+27	322	galar	vibrava		true	true	false	false
+27	323	galar	flygon		true	true	false	false
+27	362	galar	lunatone		true	true	false	false
+27	363	galar	solrock		true	true	false	false
+27	228	galar	barboach		true	true	false	false
+27	229	galar	whiscash		true	true	false	false
+27	102	galar	corphish		true	true	false	false
+27	103	galar	crawdaunt		true	true	false	false
+27	82	galar	baltoy		true	true	false	false
+27	83	galar	claydol		true	true	false	false
+27	152	galar	feebas		true	true	false	false
+27	153	galar	milotic		true	true	false	false
+27	135	galar	duskull		true	true	false	false
+27	136	galar	dusclops		true	true	false	false
+27	216	galar	wynaut		true	true	false	false
+27	79	galar	snorunt		true	true	false	false
+27	80	galar	glalie		true	true	false	false
+27	80	galar	glalie-mega	mega	true	true	true	true
+27	59	galar	budew		true	true	false	false
+27	61	galar	roserade		true	true	false	false
+27	116	galar	combee		true	true	false	false
+27	117	galar	vespiquen		true	true	false	false
+27	128	galar	cherubi		true	true	false	false
+27	129	galar	cherrim-overcast	overcast	true	true	false	false
+27	129	galar	cherrim-sunshine	sunshine	true	false	true	false
+27	230	galar	shellos-west	west	true	true	false	false
+27	230	galar	shellos-east	east	true	false	false	false
+27	231	galar	gastrodon-west	west	true	true	false	false
+27	231	galar	gastrodon-east	east	true	false	false	false
+27	124	galar	drifloon		true	true	false	false
+27	125	galar	drifblim		true	true	false	false
+27	130	galar	stunky		true	true	false	false
+27	131	galar	skuntank		true	true	false	false
+27	118	galar	bronzor		true	true	false	false
+27	119	galar	bronzong		true	true	false	false
+27	252	galar	bonsly		true	true	false	false
+27	364	galar	mime-jr		true	true	false	false
+27	260	galar	munchlax		true	true	false	false
+27	298	galar	riolu		true	true	false	false
+27	299	galar	lucario		true	true	false	false
+27	299	galar	lucario-mega	mega	true	true	true	true
+27	314	galar	hippopotas		true	true	false	false
+27	315	galar	hippowdon		true	true	false	false
+27	285	galar	skorupi		true	true	false	false
+27	286	galar	drapion		true	true	false	false
+27	222	galar	croagunk		true	true	false	false
+27	223	galar	toxicroak		true	true	false	false
+27	354	galar	mantyke		true	true	false	false
+27	96	galar	snover		true	true	false	false
+27	97	galar	abomasnow		true	true	false	false
+27	97	galar	abomasnow-mega	mega	true	true	true	true
+27	293	galar	weavile		true	true	false	false
+27	266	galar	rhyperior		true	true	false	false
+27	259	galar	togekiss		true	true	false	false
+27	202	galar	leafeon		true	true	false	false
+27	203	galar	glaceon		true	true	false	false
+27	77	galar	mamoswine		true	true	false	false
+27	123	galar	gallade		true	true	false	false
+27	123	galar	gallade-mega	mega	true	true	true	true
+27	137	galar	dusknoir		true	true	false	false
+27	81	galar	froslass		true	true	false	false
+27	372	galar	rotom		true	true	false	false
+27	372	galar	rotom-heat	heat	true	true	false	false
+27	372	galar	rotom-wash	wash	true	true	false	false
+27	372	galar	rotom-frost	frost	true	true	false	false
+27	372	galar	rotom-fan	fan	true	true	false	false
+27	372	galar	rotom-mow	mow	true	true	false	false
+27	44	galar	purrloin		true	true	false	false
+27	45	galar	liepard		true	true	false	false
+27	90	galar	munna		true	true	false	false
+27	91	galar	musharna		true	true	false	false
+27	26	galar	pidove		true	true	false	false
+27	27	galar	tranquill		true	true	false	false
+27	28	galar	unfezant		true	true	false	false
+27	168	galar	roggenrola		true	true	false	false
+27	169	galar	boldore		true	true	false	false
+27	170	galar	gigalith		true	true	false	false
+27	174	galar	woobat		true	true	false	false
+27	175	galar	swoobat		true	true	false	false
+27	166	galar	drilbur		true	true	false	false
+27	167	galar	excadrill		true	true	false	false
+27	171	galar	timburr		true	true	false	false
+27	172	galar	gurdurr		true	true	false	false
+27	173	galar	conkeldurr		true	true	false	false
+27	132	galar	tympole		true	true	false	false
+27	133	galar	palpitoad		true	true	false	false
+27	134	galar	seismitoad		true	true	false	false
+27	248	galar	throh		true	true	false	false
+27	249	galar	sawk		true	true	false	false
+27	262	galar	cottonee		true	true	false	false
+27	263	galar	whimsicott		true	true	false	false
+27	154	galar	basculin-red-striped	red-striped	true	true	false	false
+27	154	galar	basculin-blue-striped	blue-striped	true	true	false	false
+27	154	galar	basculin-white-striped	white-striped	true	true	false	false
+27	367	galar	darumaka		true	true	false	false
+27	367	galar	darumaka-galar	galar	true	true	false	false
+27	368	galar	darmanitan-standard	standard	true	true	false	false
+27	368	galar	darmanitan-zen	zen	true	true	true	false
+27	368	galar	darmanitan-galar-standard	galar-standard	true	true	false	false
+27	368	galar	darmanitan-galar-zen	galar-zen	true	true	true	false
+27	296	galar	maractus		true	true	false	false
+27	86	galar	dwebble		true	true	false	false
+27	87	galar	crustle		true	true	false	false
+27	224	galar	scraggy		true	true	false	false
+27	225	galar	scrafty		true	true	false	false
+27	297	galar	sigilyph		true	true	false	false
+27	327	galar	yamask		true	true	false	false
+27	327	galar	yamask-galar	galar	true	true	false	false
+27	329	galar	cofagrigus		true	true	false	false
+27	157	galar	trubbish		true	true	false	false
+27	158	galar	garbodor		true	true	false	false
+27	158	galar	garbodor-gmax	gmax	true	true	true	false
+27	50	galar	minccino		true	true	false	false
+27	51	galar	cinccino		true	true	false	false
+27	267	galar	gothita		true	true	false	false
+27	268	galar	gothorita		true	true	false	false
+27	269	galar	gothitelle		true	true	false	false
+27	270	galar	solosis		true	true	false	false
+27	271	galar	duosion		true	true	false	false
+27	272	galar	reuniclus		true	true	false	false
+27	72	galar	vanillite		true	true	false	false
+27	73	galar	vanillish		true	true	false	false
+27	74	galar	vanilluxe		true	true	false	false
+27	273	galar	karrablast		true	true	false	false
+27	274	galar	escavalier		true	true	false	false
+27	305	galar	frillish		true	true	false	false
+27	306	galar	jellicent		true	true	false	false
+27	64	galar	joltik		true	true	false	false
+27	65	galar	galvantula		true	true	false	false
+27	189	galar	ferroseed		true	true	false	false
+27	190	galar	ferrothorn		true	true	false	false
+27	113	galar	klink		true	true	false	false
+27	114	galar	klang		true	true	false	false
+27	115	galar	klinklang		true	true	false	false
+27	277	galar	elgyem		true	true	false	false
+27	278	galar	beheeyem		true	true	false	false
+27	287	galar	litwick		true	true	false	false
+27	288	galar	lampent		true	true	false	false
+27	289	galar	chandelure		true	true	false	false
+27	324	galar	axew		true	true	false	false
+27	325	galar	fraxure		true	true	false	false
+27	326	galar	haxorus		true	true	false	false
+27	279	galar	cubchoo		true	true	false	false
+27	280	galar	beartic		true	true	false	false
+27	275	galar	shelmet		true	true	false	false
+27	276	galar	accelgor		true	true	false	false
+27	226	galar	stunfisk		true	true	false	false
+27	226	galar	stunfisk-galar	galar	true	true	false	false
+27	88	galar	golett		true	true	false	false
+27	89	galar	golurk		true	true	false	false
+27	246	galar	pawniard		true	true	false	false
+27	247	galar	bisharp		true	true	false	false
+27	281	galar	rufflet		true	true	false	false
+27	282	galar	braviary		true	true	false	false
+27	282	galar	braviary-hisui	hisui	true	true	false	false
+27	283	galar	vullaby		true	true	false	false
+27	284	galar	mandibuzz		true	true	false	false
+27	317	galar	heatmor		true	true	false	false
+27	316	galar	durant		true	true	false	false
+27	386	galar	deino		true	true	false	false
+27	387	galar	zweilous		true	true	false	false
+27	388	galar	hydreigon		true	true	false	false
+27	48	galar	bunnelby		true	true	false	false
+27	49	galar	diggersby		true	true	false	false
+27	111	galar	pancham		true	true	false	false
+27	112	galar	pangoro		true	true	false	false
+27	208	galar	espurr		true	true	false	false
+27	209	galar	meowstic-male	male	true	true	false	false
+27	209	galar	meowstic-female	female	true	true	false	false
+27	330	galar	honedge		true	true	false	false
+27	331	galar	doublade		true	true	false	false
+27	332	galar	aegislash-shield	shield	true	true	false	false
+27	332	galar	aegislash-blade	blade	true	true	true	false
+27	212	galar	spritzee		true	true	false	false
+27	213	galar	aromatisse		true	true	false	false
+27	210	galar	swirlix		true	true	false	false
+27	211	galar	slurpuff		true	true	false	false
+27	290	galar	inkay		true	true	false	false
+27	291	galar	malamar		true	true	false	false
+27	234	galar	binacle		true	true	false	false
+27	235	galar	barbaracle		true	true	false	false
+27	318	galar	helioptile		true	true	false	false
+27	319	galar	heliolisk		true	true	false	false
+27	204	galar	sylveon		true	true	false	false
+27	320	galar	hawlucha		true	true	false	false
+27	389	galar	goomy		true	true	false	false
+27	390	galar	sliggoo		true	true	false	false
+27	390	galar	sliggoo-hisui	hisui	true	true	false	false
+27	391	galar	goodra		true	true	false	false
+27	391	galar	goodra-hisui	hisui	true	true	false	false
+27	338	galar	phantump		true	true	false	false
+27	339	galar	trevenant		true	true	false	false
+27	191	galar	pumpkaboo-average	average	true	true	false	false
+27	191	galar	pumpkaboo-small	small	true	true	false	false
+27	191	galar	pumpkaboo-large	large	true	true	false	false
+27	191	galar	pumpkaboo-super	super	true	true	false	false
+27	192	galar	gourgeist-average	average	true	true	false	false
+27	192	galar	gourgeist-small	small	true	true	false	false
+27	192	galar	gourgeist-large	large	true	true	false	false
+27	192	galar	gourgeist-super	super	true	true	false	false
+27	358	galar	bergmite		true	true	false	false
+27	359	galar	avalugg		true	true	false	false
+27	359	galar	avalugg-hisui	hisui	true	true	false	false
+27	176	galar	noibat		true	true	false	false
+27	177	galar	noivern		true	true	false	false
+27	16	galar	grubbin		true	true	false	false
+27	17	galar	charjabug		true	true	false	false
+27	18	galar	vikavolt		true	true	false	false
+27	18	galar	vikavolt-totem	totem	true	true	false	false
+27	187	galar	cutiefly		true	true	false	false
+27	188	galar	ribombee		true	true	false	false
+27	188	galar	ribombee-totem	totem	true	true	false	false
+27	155	galar	wishiwashi-solo	solo	true	true	false	false
+27	155	galar	wishiwashi-school	school	true	true	true	false
+27	307	galar	mareanie		true	true	false	false
+27	308	galar	toxapex		true	true	false	false
+27	84	galar	mudbray		true	true	false	false
+27	85	galar	mudsdale		true	true	false	false
+27	214	galar	dewpider		true	true	false	false
+27	215	galar	araquanid		true	true	false	false
+27	215	galar	araquanid-totem	totem	true	true	false	false
+27	340	galar	morelull		true	true	false	false
+27	341	galar	shiinotic		true	true	false	false
+27	244	galar	salandit		true	true	false	false
+27	245	galar	salazzle		true	true	false	false
+27	245	galar	salazzle-totem	totem	true	true	false	false
+27	94	galar	stufful		true	true	false	false
+27	95	galar	bewear		true	true	false	false
+27	52	galar	bounsweet		true	true	false	false
+27	53	galar	steenee		true	true	false	false
+27	54	galar	tsareena		true	true	false	false
+27	342	galar	oranguru		true	true	false	false
+27	343	galar	passimian		true	true	false	false
+27	232	galar	wimpod		true	true	false	false
+27	233	galar	golisopod		true	true	false	false
+27	156	galar	pyukumuku		true	true	false	false
+27	381	galar	type-null		true	true	false	false
+27	382	galar	silvally-normal	normal	true	true	false	false
+27	382	galar	silvally-fighting	fighting	true	false	false	false
+27	382	galar	silvally-flying	flying	true	false	false	false
+27	382	galar	silvally-poison	poison	true	false	false	false
+27	382	galar	silvally-ground	ground	true	false	false	false
+27	382	galar	silvally-rock	rock	true	false	false	false
+27	382	galar	silvally-bug	bug	true	false	false	false
+27	382	galar	silvally-ghost	ghost	true	false	false	false
+27	382	galar	silvally-steel	steel	true	false	false	false
+27	382	galar	silvally-fire	fire	true	false	false	false
+27	382	galar	silvally-water	water	true	false	false	false
+27	382	galar	silvally-grass	grass	true	false	false	false
+27	382	galar	silvally-electric	electric	true	false	false	false
+27	382	galar	silvally-psychic	psychic	true	false	false	false
+27	382	galar	silvally-ice	ice	true	false	false	false
+27	382	galar	silvally-dragon	dragon	true	false	false	false
+27	382	galar	silvally-dark	dark	true	false	false	false
+27	382	galar	silvally-fairy	fairy	true	false	false	false
+27	347	galar	turtonator		true	true	false	false
+27	348	galar	togedemaru		true	true	false	false
+27	348	galar	togedemaru-totem	totem	true	true	false	false
+27	301	galar	mimikyu-disguised	disguised	true	true	false	false
+27	301	galar	mimikyu-busted	busted	true	true	true	false
+27	301	galar	mimikyu-totem-disguised	totem-disguised	true	true	false	false
+27	301	galar	mimikyu-totem-busted	totem-busted	true	true	true	false
+27	346	galar	drampa		true	true	false	false
+27	360	galar	dhelmise		true	true	false	false
+27	392	galar	jangmo-o		true	true	false	false
+27	393	galar	hakamo-o		true	true	false	false
+27	394	galar	kommo-o		true	true	false	false
+27	394	galar	kommo-o-totem	totem	true	true	false	false
+27	1	galar	grookey		true	true	false	false
+27	2	galar	thwackey		true	true	false	false
+27	3	galar	rillaboom		true	true	false	false
+27	3	galar	rillaboom-gmax	gmax	true	true	true	false
+27	4	galar	scorbunny		true	true	false	false
+27	5	galar	raboot		true	true	false	false
+27	6	galar	cinderace		true	true	false	false
+27	6	galar	cinderace-gmax	gmax	true	true	true	false
+27	7	galar	sobble		true	true	false	false
+27	8	galar	drizzile		true	true	false	false
+27	9	galar	inteleon		true	true	false	false
+27	9	galar	inteleon-gmax	gmax	true	true	true	false
+27	24	galar	skwovet		true	true	false	false
+27	25	galar	greedent		true	true	false	false
+27	21	galar	rookidee		true	true	false	false
+27	22	galar	corvisquire		true	true	false	false
+27	23	galar	corviknight		true	true	false	false
+27	23	galar	corviknight-gmax	gmax	true	true	true	false
+27	10	galar	blipbug		true	true	false	false
+27	11	galar	dottler		true	true	false	false
+27	12	galar	orbeetle		true	true	false	false
+27	12	galar	orbeetle-gmax	gmax	true	true	true	false
+27	29	galar	nickit		true	true	false	false
+27	30	galar	thievul		true	true	false	false
+27	126	galar	gossifleur		true	true	false	false
+27	127	galar	eldegoss		true	true	false	false
+27	34	galar	wooloo		true	true	false	false
+27	35	galar	dubwool		true	true	false	false
+27	42	galar	chewtle		true	true	false	false
+27	43	galar	drednaw		true	true	false	false
+27	43	galar	drednaw-gmax	gmax	true	true	true	false
+27	46	galar	yamper		true	true	false	false
+27	47	galar	boltund		true	true	false	false
+27	161	galar	rolycoly		true	true	false	false
+27	162	galar	carkol		true	true	false	false
+27	163	galar	coalossal		true	true	false	false
+27	163	galar	coalossal-gmax	gmax	true	true	true	false
+27	205	galar	applin		true	true	false	false
+27	206	galar	flapple		true	true	false	false
+27	206	galar	flapple-gmax	gmax	true	true	true	false
+27	207	galar	appletun		true	true	false	false
+27	207	galar	appletun-gmax	gmax	true	true	true	false
+27	312	galar	silicobra		true	true	false	false
+27	313	galar	sandaconda		true	true	false	false
+27	313	galar	sandaconda-gmax	gmax	true	true	true	false
+27	309	galar	cramorant		true	true	false	false
+27	309	galar	cramorant-gulping	gulping	true	true	true	false
+27	309	galar	cramorant-gorging	gorging	true	true	true	false
+27	180	galar	arrokuda		true	true	false	false
+27	181	galar	barraskewda		true	true	false	false
+27	310	galar	toxel		true	true	false	false
+27	311	galar	toxtricity-amped	amped	true	true	false	false
+27	311	galar	toxtricity-low-key	low-key	true	true	false	false
+27	311	galar	toxtricity-amped-gmax	gmax	true	true	true	false
+27	311	galar	toxtricity-low-key-gmax	gmax	true	true	true	false
+27	159	galar	sizzlipede		true	true	false	false
+27	160	galar	centiskorch		true	true	false	false
+27	160	galar	centiskorch-gmax	gmax	true	true	true	false
+27	351	galar	clobbopus		true	true	false	false
+27	352	galar	grapploct		true	true	false	false
+27	335	galar	sinistea-phony	phony	true	true	false	false
+27	335	galar	sinistea-antique	antique	true	false	false	false
+27	336	galar	polteageist-phony	phony	true	true	false	false
+27	336	galar	polteageist-antique	antique	true	false	false	false
+27	241	galar	hatenna		true	true	false	false
+27	242	galar	hattrem		true	true	false	false
+27	243	galar	hatterene		true	true	false	false
+27	243	galar	hatterene-gmax	gmax	true	true	true	false
+27	238	galar	impidimp		true	true	false	false
+27	239	galar	morgrem		true	true	false	false
+27	240	galar	grimmsnarl		true	true	false	false
+27	240	galar	grimmsnarl-gmax	gmax	true	true	true	false
+27	33	galar	obstagoon		true	true	false	false
+27	183	galar	perrserker		true	true	false	false
+27	237	galar	cursola		true	true	false	false
+27	219	galar	sirfetchd		true	true	false	false
+27	366	galar	mr-rime		true	true	false	false
+27	328	galar	runerigus		true	true	false	false
+27	185	galar	milcery		true	true	false	false
+27	186	galar	alcremie-vanilla-cream-strawberry-sweet	vanilla-cream-strawberry-sweet	true	true	false	false
+27	186	galar	alcremie-ruby-cream-strawberry-sweet	ruby-cream-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-matcha-cream-strawberry-sweet	matcha-cream-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-mint-cream-strawberry-sweet	mint-cream-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-lemon-cream-strawberry-sweet	lemon-cream-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-salted-cream-strawberry-sweet	salted-cream-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-swirl-strawberry-sweet	ruby-swirl-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-caramel-swirl-strawberry-sweet	caramel-swirl-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-rainbow-swirl-strawberry-sweet	rainbow-swirl-strawberry-sweet	true	false	false	false
+27	186	galar	alcremie-vanilla-cream-berry-sweet	vanilla-cream-berry-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-cream-berry-sweet	ruby-cream-berry-sweet	true	false	false	false
+27	186	galar	alcremie-matcha-cream-berry-sweet	matcha-cream-berry-sweet	true	false	false	false
+27	186	galar	alcremie-mint-cream-berry-sweet	mint-cream-berry-sweet	true	false	false	false
+27	186	galar	alcremie-lemon-cream-berry-sweet	lemon-cream-berry-sweet	true	false	false	false
+27	186	galar	alcremie-salted-cream-berry-sweet	salted-cream-berry-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-swirl-berry-sweet	ruby-swirl-berry-sweet	true	false	false	false
+27	186	galar	alcremie-caramel-swirl-berry-sweet	caramel-swirl-berry-sweet	true	false	false	false
+27	186	galar	alcremie-rainbow-swirl-berry-sweet	rainbow-swirl-berry-sweet	true	false	false	false
+27	186	galar	alcremie-vanilla-cream-love-sweet	vanilla-cream-love-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-cream-love-sweet	ruby-cream-love-sweet	true	false	false	false
+27	186	galar	alcremie-matcha-cream-love-sweet	matcha-cream-love-sweet	true	false	false	false
+27	186	galar	alcremie-mint-cream-love-sweet	mint-cream-love-sweet	true	false	false	false
+27	186	galar	alcremie-lemon-cream-love-sweet	lemon-cream-love-sweet	true	false	false	false
+27	186	galar	alcremie-salted-cream-love-sweet	salted-cream-love-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-swirl-love-sweet	ruby-swirl-love-sweet	true	false	false	false
+27	186	galar	alcremie-caramel-swirl-love-sweet	caramel-swirl-love-sweet	true	false	false	false
+27	186	galar	alcremie-rainbow-swirl-love-sweet	rainbow-swirl-love-sweet	true	false	false	false
+27	186	galar	alcremie-vanilla-cream-star-sweet	vanilla-cream-star-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-cream-star-sweet	ruby-cream-star-sweet	true	false	false	false
+27	186	galar	alcremie-matcha-cream-star-sweet	matcha-cream-star-sweet	true	false	false	false
+27	186	galar	alcremie-mint-cream-star-sweet	mint-cream-star-sweet	true	false	false	false
+27	186	galar	alcremie-lemon-cream-star-sweet	lemon-cream-star-sweet	true	false	false	false
+27	186	galar	alcremie-salted-cream-star-sweet	salted-cream-star-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-swirl-star-sweet	ruby-swirl-star-sweet	true	false	false	false
+27	186	galar	alcremie-caramel-swirl-star-sweet	caramel-swirl-star-sweet	true	false	false	false
+27	186	galar	alcremie-rainbow-swirl-star-sweet	rainbow-swirl-star-sweet	true	false	false	false
+27	186	galar	alcremie-vanilla-cream-clover-sweet	vanilla-cream-clover-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-cream-clover-sweet	ruby-cream-clover-sweet	true	false	false	false
+27	186	galar	alcremie-matcha-cream-clover-sweet	matcha-cream-clover-sweet	true	false	false	false
+27	186	galar	alcremie-mint-cream-clover-sweet	mint-cream-clover-sweet	true	false	false	false
+27	186	galar	alcremie-lemon-cream-clover-sweet	lemon-cream-clover-sweet	true	false	false	false
+27	186	galar	alcremie-salted-cream-clover-sweet	salted-cream-clover-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-swirl-clover-sweet	ruby-swirl-clover-sweet	true	false	false	false
+27	186	galar	alcremie-caramel-swirl-clover-sweet	caramel-swirl-clover-sweet	true	false	false	false
+27	186	galar	alcremie-rainbow-swirl-clover-sweet	rainbow-swirl-clover-sweet	true	false	false	false
+27	186	galar	alcremie-vanilla-cream-flower-sweet	vanilla-cream-flower-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-cream-flower-sweet	ruby-cream-flower-sweet	true	false	false	false
+27	186	galar	alcremie-matcha-cream-flower-sweet	matcha-cream-flower-sweet	true	false	false	false
+27	186	galar	alcremie-mint-cream-flower-sweet	mint-cream-flower-sweet	true	false	false	false
+27	186	galar	alcremie-lemon-cream-flower-sweet	lemon-cream-flower-sweet	true	false	false	false
+27	186	galar	alcremie-salted-cream-flower-sweet	salted-cream-flower-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-swirl-flower-sweet	ruby-swirl-flower-sweet	true	false	false	false
+27	186	galar	alcremie-caramel-swirl-flower-sweet	caramel-swirl-flower-sweet	true	false	false	false
+27	186	galar	alcremie-rainbow-swirl-flower-sweet	rainbow-swirl-flower-sweet	true	false	false	false
+27	186	galar	alcremie-vanilla-cream-ribbon-sweet	vanilla-cream-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-cream-ribbon-sweet	ruby-cream-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-matcha-cream-ribbon-sweet	matcha-cream-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-mint-cream-ribbon-sweet	mint-cream-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-lemon-cream-ribbon-sweet	lemon-cream-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-salted-cream-ribbon-sweet	salted-cream-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-ruby-swirl-ribbon-sweet	ruby-swirl-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-caramel-swirl-ribbon-sweet	caramel-swirl-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-rainbow-swirl-ribbon-sweet	rainbow-swirl-ribbon-sweet	true	false	false	false
+27	186	galar	alcremie-gmax	gmax	true	true	true	false
+27	345	galar	falinks		true	true	false	false
+27	353	galar	pincurchin		true	true	false	false
+27	349	galar	snom		true	true	false	false
+27	350	galar	frosmoth		true	true	false	false
+27	369	galar	stonjourner		true	true	false	false
+27	370	galar	eiscue-ice	ice	true	true	false	false
+27	370	galar	eiscue-noice	noice	true	true	true	false
+27	337	galar	indeedee-male	male	true	true	false	false
+27	337	galar	indeedee-female	female	true	true	false	false
+27	344	galar	morpeko-full-belly	full-belly	true	true	false	false
+27	344	galar	morpeko-hangry	hangry	true	true	true	false
+27	302	galar	cufant		true	true	false	false
+27	303	galar	copperajah		true	true	false	false
+27	303	galar	copperajah-gmax	gmax	true	true	true	false
+27	374	galar	dracozolt		true	true	false	false
+27	375	galar	arctozolt		true	true	false	false
+27	376	galar	dracovish		true	true	false	false
+27	377	galar	arctovish		true	true	false	false
+27	371	galar	duraludon		true	true	false	false
+27	371	galar	duraludon-gmax	gmax	true	true	true	false
+27	395	galar	dreepy		true	true	false	false
+27	396	galar	drakloak		true	true	false	false
+27	397	galar	dragapult		true	true	false	false
+27	398	galar	zacian		true	true	false	false
+27	398	galar	zacian-crowned	crowned	true	true	true	false
+27	399	galar	zamazenta		true	true	false	false
+27	399	galar	zamazenta-crowned	crowned	true	true	true	false
+27	400	galar	eternatus		true	true	false	false
+27	400	galar	eternatus-eternamax	eternamax	true	true	false	false

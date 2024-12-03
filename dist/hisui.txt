@@ -1,0 +1,374 @@
+pokedexId	pokedexNumber	pokedexName	formName	formIdentifier	isMainSeries	isDefault	isBattleOnly	isMega
+30	56	hisui	pikachu		true	true	false	false
+30	56	hisui	pikachu-rock-star	rock-star	true	true	false	false
+30	56	hisui	pikachu-belle	belle	true	true	false	false
+30	56	hisui	pikachu-pop-star	pop-star	true	true	false	false
+30	56	hisui	pikachu-phd	phd	true	true	false	false
+30	56	hisui	pikachu-libre	libre	true	true	false	false
+30	56	hisui	pikachu-cosplay	cosplay	true	true	false	false
+30	56	hisui	pikachu-original-cap	original-cap	true	true	false	false
+30	56	hisui	pikachu-hoenn-cap	hoenn-cap	true	true	false	false
+30	56	hisui	pikachu-sinnoh-cap	sinnoh-cap	true	true	false	false
+30	56	hisui	pikachu-unova-cap	unova-cap	true	true	false	false
+30	56	hisui	pikachu-kalos-cap	kalos-cap	true	true	false	false
+30	56	hisui	pikachu-alola-cap	alola-cap	true	true	false	false
+30	56	hisui	pikachu-partner-cap	partner-cap	true	true	false	false
+30	56	hisui	pikachu-starter	starter	true	true	false	false
+30	56	hisui	pikachu-world-cap	world-cap	true	true	false	false
+30	56	hisui	pikachu-gmax	gmax	true	true	true	false
+30	57	hisui	raichu		true	true	false	false
+30	57	hisui	raichu-alola	alola	true	true	false	false
+30	200	hisui	clefairy		true	true	false	false
+30	201	hisui	clefable		true	true	false	false
+30	168	hisui	vulpix		true	true	false	false
+30	168	hisui	vulpix-alola	alola	true	true	false	false
+30	169	hisui	ninetales		true	true	false	false
+30	169	hisui	ninetales-alola	alola	true	true	false	false
+30	34	hisui	zubat		true	true	false	false
+30	35	hisui	golbat		true	true	false	false
+30	53	hisui	paras		true	true	false	false
+30	54	hisui	parasect		true	true	false	false
+30	68	hisui	psyduck		true	true	false	false
+30	69	hisui	golduck		true	true	false	false
+30	150	hisui	growlithe		true	true	false	false
+30	150	hisui	growlithe-hisui	hisui	true	true	false	false
+30	151	hisui	arcanine		true	true	false	false
+30	151	hisui	arcanine-hisui	hisui	true	true	false	false
+30	58	hisui	abra		true	true	false	false
+30	59	hisui	kadabra		true	true	false	false
+30	60	hisui	alakazam		true	true	false	false
+30	60	hisui	alakazam-mega	mega	true	true	true	true
+30	154	hisui	machop		true	true	false	false
+30	155	hisui	machoke		true	true	false	false
+30	156	hisui	machamp		true	true	false	false
+30	156	hisui	machamp-gmax	gmax	true	true	true	false
+30	170	hisui	tentacool		true	true	false	false
+30	171	hisui	tentacruel		true	true	false	false
+30	46	hisui	geodude		true	true	false	false
+30	46	hisui	geodude-alola	alola	true	true	false	false
+30	47	hisui	graveler		true	true	false	false
+30	47	hisui	graveler-alola	alola	true	true	false	false
+30	48	hisui	golem		true	true	false	false
+30	48	hisui	golem-alola	alola	true	true	false	false
+30	23	hisui	ponyta		true	true	false	false
+30	23	hisui	ponyta-galar	galar	true	true	false	false
+30	24	hisui	rapidash		true	true	false	false
+30	24	hisui	rapidash-galar	galar	true	true	false	false
+30	177	hisui	magnemite		true	true	false	false
+30	178	hisui	magneton		true	true	false	false
+30	136	hisui	gastly		true	true	false	false
+30	137	hisui	haunter		true	true	false	false
+30	138	hisui	gengar		true	true	false	false
+30	138	hisui	gengar-mega	mega	true	true	true	true
+30	138	hisui	gengar-gmax	gmax	true	true	true	false
+30	118	hisui	onix		true	true	false	false
+30	192	hisui	voltorb		true	true	false	false
+30	192	hisui	voltorb-hisui	hisui	true	true	false	false
+30	193	hisui	electrode		true	true	false	false
+30	193	hisui	electrode-hisui	hisui	true	true	false	false
+30	125	hisui	lickitung		true	true	false	false
+30	120	hisui	rhyhorn		true	true	false	false
+30	121	hisui	rhydon		true	true	false	false
+30	87	hisui	chansey		true	true	false	false
+30	95	hisui	tangela		true	true	false	false
+30	77	hisui	mr-mime		true	true	false	false
+30	77	hisui	mr-mime-galar	galar	true	true	false	false
+30	72	hisui	scyther		true	true	false	false
+30	183	hisui	electabuzz		true	true	false	false
+30	175	hisui	magmar		true	true	false	false
+30	80	hisui	magikarp		true	true	false	false
+30	81	hisui	gyarados		true	true	false	false
+30	81	hisui	gyarados-mega	mega	true	true	true	true
+30	25	hisui	eevee		true	true	false	false
+30	25	hisui	eevee-starter	starter	true	true	false	false
+30	25	hisui	eevee-gmax	gmax	true	true	true	false
+30	26	hisui	vaporeon		true	true	false	false
+30	27	hisui	jolteon		true	true	false	false
+30	28	hisui	flareon		true	true	false	false
+30	133	hisui	porygon		true	true	false	false
+30	52	hisui	snorlax		true	true	false	false
+30	52	hisui	snorlax-gmax	gmax	true	true	true	false
+30	4	hisui	cyndaquil		true	true	false	false
+30	5	hisui	quilava		true	true	false	false
+30	6	hisui	typhlosion		true	true	false	false
+30	6	hisui	typhlosion-hisui	hisui	true	true	false	false
+30	36	hisui	crobat		true	true	false	false
+30	55	hisui	pichu		true	true	false	false
+30	55	hisui	pichu-spiky-eared	spiky-eared	true	false	false	false
+30	199	hisui	cleffa		true	true	false	false
+30	127	hisui	togepi		true	true	false	false
+30	128	hisui	togetic		true	true	false	false
+30	124	hisui	sudowoodo		true	true	false	false
+30	78	hisui	aipom		true	true	false	false
+30	105	hisui	yanma		true	true	false	false
+30	29	hisui	espeon		true	true	false	false
+30	30	hisui	umbreon		true	true	false	false
+30	140	hisui	murkrow		true	true	false	false
+30	197	hisui	misdreavus		true	true	false	false
+30	142	hisui	unown-a	a	true	true	false	false
+30	142	hisui	unown-b	b	true	false	false	false
+30	142	hisui	unown-c	c	true	false	false	false
+30	142	hisui	unown-d	d	true	false	false	false
+30	142	hisui	unown-e	e	true	false	false	false
+30	142	hisui	unown-f	f	true	false	false	false
+30	142	hisui	unown-g	g	true	false	false	false
+30	142	hisui	unown-h	h	true	false	false	false
+30	142	hisui	unown-i	i	true	false	false	false
+30	142	hisui	unown-j	j	true	false	false	false
+30	142	hisui	unown-k	k	true	false	false	false
+30	142	hisui	unown-l	l	true	false	false	false
+30	142	hisui	unown-m	m	true	false	false	false
+30	142	hisui	unown-n	n	true	false	false	false
+30	142	hisui	unown-o	o	true	false	false	false
+30	142	hisui	unown-p	p	true	false	false	false
+30	142	hisui	unown-q	q	true	false	false	false
+30	142	hisui	unown-r	r	true	false	false	false
+30	142	hisui	unown-s	s	true	false	false	false
+30	142	hisui	unown-t	t	true	false	false	false
+30	142	hisui	unown-u	u	true	false	false	false
+30	142	hisui	unown-v	v	true	false	false	false
+30	142	hisui	unown-w	w	true	false	false	false
+30	142	hisui	unown-x	x	true	false	false	false
+30	142	hisui	unown-y	y	true	false	false	false
+30	142	hisui	unown-z	z	true	false	false	false
+30	142	hisui	unown-exclamation	exclamation	true	false	false	false
+30	142	hisui	unown-question	question	true	false	false	false
+30	185	hisui	gligar		true	true	false	false
+30	119	hisui	steelix		true	true	false	false
+30	119	hisui	steelix-mega	mega	true	true	true	true
+30	84	hisui	qwilfish		true	true	false	false
+30	84	hisui	qwilfish-hisui	hisui	true	true	false	false
+30	74	hisui	scizor		true	true	false	false
+30	74	hisui	scizor-mega	mega	true	true	true	true
+30	75	hisui	heracross		true	true	false	false
+30	75	hisui	heracross-mega	mega	true	true	true	true
+30	202	hisui	sneasel		true	true	false	false
+30	202	hisui	sneasel-hisui	hisui	true	true	false	false
+30	112	hisui	teddiursa		true	true	false	false
+30	113	hisui	ursaring		true	true	false	false
+30	212	hisui	swinub		true	true	false	false
+30	213	hisui	piloswine		true	true	false	false
+30	146	hisui	remoraid		true	true	false	false
+30	147	hisui	octillery		true	true	false	false
+30	165	hisui	mantine		true	true	false	false
+30	134	hisui	porygon2		true	true	false	false
+30	49	hisui	stantler		true	true	false	false
+30	182	hisui	elekid		true	true	false	false
+30	174	hisui	magby		true	true	false	false
+30	88	hisui	blissey		true	true	false	false
+30	18	hisui	wurmple		true	true	false	false
+30	19	hisui	silcoon		true	true	false	false
+30	20	hisui	beautifly		true	true	false	false
+30	21	hisui	cascoon		true	true	false	false
+30	22	hisui	dustox		true	true	false	false
+30	101	hisui	ralts		true	true	false	false
+30	102	hisui	kirlia		true	true	false	false
+30	103	hisui	gardevoir		true	true	false	false
+30	103	hisui	gardevoir-mega	mega	true	true	true	true
+30	190	hisui	nosepass		true	true	false	false
+30	90	hisui	roselia		true	true	false	false
+30	97	hisui	barboach		true	true	false	false
+30	98	hisui	whiscash		true	true	false	false
+30	158	hisui	duskull		true	true	false	false
+30	159	hisui	dusclops		true	true	false	false
+30	196	hisui	chimecho		true	true	false	false
+30	205	hisui	snorunt		true	true	false	false
+30	206	hisui	glalie		true	true	false	false
+30	206	hisui	glalie-mega	mega	true	true	true	true
+30	143	hisui	spheal		true	true	false	false
+30	144	hisui	sealeo		true	true	false	false
+30	145	hisui	walrein		true	true	false	false
+30	130	hisui	turtwig		true	true	false	false
+30	131	hisui	grotle		true	true	false	false
+30	132	hisui	torterra		true	true	false	false
+30	61	hisui	chimchar		true	true	false	false
+30	62	hisui	monferno		true	true	false	false
+30	63	hisui	infernape		true	true	false	false
+30	161	hisui	piplup		true	true	false	false
+30	162	hisui	prinplup		true	true	false	false
+30	163	hisui	empoleon		true	true	false	false
+30	12	hisui	starly		true	true	false	false
+30	13	hisui	staravia		true	true	false	false
+30	14	hisui	staraptor		true	true	false	false
+30	10	hisui	bidoof		true	true	false	false
+30	11	hisui	bibarel		true	true	false	false
+30	39	hisui	kricketot		true	true	false	false
+30	40	hisui	kricketune		true	true	false	false
+30	15	hisui	shinx		true	true	false	false
+30	16	hisui	luxio		true	true	false	false
+30	17	hisui	luxray		true	true	false	false
+30	89	hisui	budew		true	true	false	false
+30	91	hisui	roserade		true	true	false	false
+30	208	hisui	cranidos		true	true	false	false
+30	209	hisui	rampardos		true	true	false	false
+30	210	hisui	shieldon		true	true	false	false
+30	211	hisui	bastiodon		true	true	false	false
+30	43	hisui	burmy-plant	plant	true	true	false	false
+30	43	hisui	burmy-sandy	sandy	true	false	false	false
+30	43	hisui	burmy-trash	trash	true	false	false	false
+30	44	hisui	wormadam-plant	plant	true	true	false	false
+30	44	hisui	wormadam-sandy	sandy	true	true	false	false
+30	44	hisui	wormadam-trash	trash	true	true	false	false
+30	45	hisui	mothim-plant	plant	true	true	false	false
+30	45	hisui	mothim-sandy	sandy	true	false	false	false
+30	45	hisui	mothim-trash	trash	true	false	false	false
+30	70	hisui	combee		true	true	false	false
+30	71	hisui	vespiquen		true	true	false	false
+30	109	hisui	pachirisu		true	true	false	false
+30	41	hisui	buizel		true	true	false	false
+30	42	hisui	floatzel		true	true	false	false
+30	66	hisui	cherubi		true	true	false	false
+30	67	hisui	cherrim-overcast	overcast	true	true	false	false
+30	67	hisui	cherrim-sunshine	sunshine	true	false	true	false
+30	82	hisui	shellos-west	west	true	true	false	false
+30	82	hisui	shellos-east	east	true	false	false	false
+30	83	hisui	gastrodon-west	west	true	true	false	false
+30	83	hisui	gastrodon-east	east	true	false	false	false
+30	79	hisui	ambipom		true	true	false	false
+30	37	hisui	drifloon		true	true	false	false
+30	38	hisui	drifblim		true	true	false	false
+30	64	hisui	buneary		true	true	false	false
+30	65	hisui	lopunny		true	true	false	false
+30	65	hisui	lopunny-mega	mega	true	true	true	true
+30	198	hisui	mismagius		true	true	false	false
+30	141	hisui	honchkrow		true	true	false	false
+30	152	hisui	glameow		true	true	false	false
+30	153	hisui	purugly		true	true	false	false
+30	195	hisui	chingling		true	true	false	false
+30	110	hisui	stunky		true	true	false	false
+30	111	hisui	skuntank		true	true	false	false
+30	180	hisui	bronzor		true	true	false	false
+30	181	hisui	bronzong		true	true	false	false
+30	123	hisui	bonsly		true	true	false	false
+30	76	hisui	mime-jr		true	true	false	false
+30	86	hisui	happiny		true	true	false	false
+30	157	hisui	chatot		true	true	false	false
+30	139	hisui	spiritomb		true	true	false	false
+30	187	hisui	gible		true	true	false	false
+30	188	hisui	gabite		true	true	false	false
+30	189	hisui	garchomp		true	true	false	false
+30	189	hisui	garchomp-mega	mega	true	true	true	true
+30	51	hisui	munchlax		true	true	false	false
+30	223	hisui	riolu		true	true	false	false
+30	224	hisui	lucario		true	true	false	false
+30	224	hisui	lucario-mega	mega	true	true	true	true
+30	107	hisui	hippopotas		true	true	false	false
+30	108	hisui	hippowdon		true	true	false	false
+30	148	hisui	skorupi		true	true	false	false
+30	149	hisui	drapion		true	true	false	false
+30	99	hisui	croagunk		true	true	false	false
+30	100	hisui	toxicroak		true	true	false	false
+30	92	hisui	carnivine		true	true	false	false
+30	172	hisui	finneon		true	true	false	false
+30	173	hisui	lumineon		true	true	false	false
+30	164	hisui	mantyke		true	true	false	false
+30	217	hisui	snover		true	true	false	false
+30	218	hisui	abomasnow		true	true	false	false
+30	218	hisui	abomasnow-mega	mega	true	true	true	true
+30	204	hisui	weavile		true	true	false	false
+30	179	hisui	magnezone		true	true	false	false
+30	126	hisui	lickilicky		true	true	false	false
+30	122	hisui	rhyperior		true	true	false	false
+30	96	hisui	tangrowth		true	true	false	false
+30	184	hisui	electivire		true	true	false	false
+30	176	hisui	magmortar		true	true	false	false
+30	129	hisui	togekiss		true	true	false	false
+30	106	hisui	yanmega		true	true	false	false
+30	31	hisui	leafeon		true	true	false	false
+30	32	hisui	glaceon		true	true	false	false
+30	186	hisui	gliscor		true	true	false	false
+30	214	hisui	mamoswine		true	true	false	false
+30	135	hisui	porygon-z		true	true	false	false
+30	104	hisui	gallade		true	true	false	false
+30	104	hisui	gallade-mega	mega	true	true	true	true
+30	191	hisui	probopass		true	true	false	false
+30	160	hisui	dusknoir		true	true	false	false
+30	207	hisui	froslass		true	true	false	false
+30	194	hisui	rotom		true	true	false	false
+30	194	hisui	rotom-heat	heat	true	true	false	false
+30	194	hisui	rotom-wash	wash	true	true	false	false
+30	194	hisui	rotom-frost	frost	true	true	false	false
+30	194	hisui	rotom-fan	fan	true	true	false	false
+30	194	hisui	rotom-mow	mow	true	true	false	false
+30	225	hisui	uxie		true	true	false	false
+30	226	hisui	mesprit		true	true	false	false
+30	227	hisui	azelf		true	true	false	false
+30	235	hisui	dialga		true	true	false	false
+30	235	hisui	dialga-origin	origin	true	true	false	false
+30	236	hisui	palkia		true	true	false	false
+30	236	hisui	palkia-origin	origin	true	true	false	false
+30	228	hisui	heatran		true	true	false	false
+30	229	hisui	regigigas		true	true	false	false
+30	237	hisui	giratina-altered	altered	true	true	false	false
+30	237	hisui	giratina-origin	origin	true	true	false	false
+30	230	hisui	cresselia		true	true	false	false
+30	239	hisui	phione		true	true	false	false
+30	240	hisui	manaphy		true	true	false	false
+30	242	hisui	darkrai		true	true	false	false
+30	241	hisui	shaymin-land	land	true	true	false	false
+30	241	hisui	shaymin-sky	sky	true	true	false	false
+30	238	hisui	arceus-normal	normal	true	true	false	false
+30	238	hisui	arceus-bug	bug	true	false	false	false
+30	238	hisui	arceus-dark	dark	true	false	false	false
+30	238	hisui	arceus-dragon	dragon	true	false	false	false
+30	238	hisui	arceus-electric	electric	true	false	false	false
+30	238	hisui	arceus-fighting	fighting	true	false	false	false
+30	238	hisui	arceus-fire	fire	true	false	false	false
+30	238	hisui	arceus-flying	flying	true	false	false	false
+30	238	hisui	arceus-ghost	ghost	true	false	false	false
+30	238	hisui	arceus-grass	grass	true	false	false	false
+30	238	hisui	arceus-ground	ground	true	false	false	false
+30	238	hisui	arceus-ice	ice	true	false	false	false
+30	238	hisui	arceus-poison	poison	true	false	false	false
+30	238	hisui	arceus-psychic	psychic	true	false	false	false
+30	238	hisui	arceus-rock	rock	true	false	false	false
+30	238	hisui	arceus-steel	steel	true	false	false	false
+30	238	hisui	arceus-water	water	true	false	false	false
+30	238	hisui	arceus-unknown	unknown	true	false	false	false
+30	238	hisui	arceus-fairy	fairy	true	false	false	false
+30	7	hisui	oshawott		true	true	false	false
+30	8	hisui	dewott		true	true	false	false
+30	9	hisui	samurott		true	true	false	false
+30	9	hisui	samurott-hisui	hisui	true	true	false	false
+30	93	hisui	petilil		true	true	false	false
+30	94	hisui	lilligant		true	true	false	false
+30	94	hisui	lilligant-hisui	hisui	true	true	false	false
+30	166	hisui	basculin-red-striped	red-striped	true	true	false	false
+30	166	hisui	basculin-blue-striped	blue-striped	true	true	false	false
+30	166	hisui	basculin-white-striped	white-striped	true	true	false	false
+30	219	hisui	zorua		true	true	false	false
+30	219	hisui	zorua-hisui	hisui	true	true	false	false
+30	220	hisui	zoroark		true	true	false	false
+30	220	hisui	zoroark-hisui	hisui	true	true	false	false
+30	221	hisui	rufflet		true	true	false	false
+30	222	hisui	braviary		true	true	false	false
+30	222	hisui	braviary-hisui	hisui	true	true	false	false
+30	231	hisui	tornadus-incarnate	incarnate	true	true	false	false
+30	231	hisui	tornadus-therian	therian	true	true	false	false
+30	232	hisui	thundurus-incarnate	incarnate	true	true	false	false
+30	232	hisui	thundurus-therian	therian	true	true	false	false
+30	233	hisui	landorus-incarnate	incarnate	true	true	false	false
+30	233	hisui	landorus-therian	therian	true	true	false	false
+30	33	hisui	sylveon		true	true	false	false
+30	115	hisui	goomy		true	true	false	false
+30	116	hisui	sliggoo		true	true	false	false
+30	116	hisui	sliggoo-hisui	hisui	true	true	false	false
+30	117	hisui	goodra		true	true	false	false
+30	117	hisui	goodra-hisui	hisui	true	true	false	false
+30	215	hisui	bergmite		true	true	false	false
+30	216	hisui	avalugg		true	true	false	false
+30	216	hisui	avalugg-hisui	hisui	true	true	false	false
+30	1	hisui	rowlet		true	true	false	false
+30	2	hisui	dartrix		true	true	false	false
+30	3	hisui	decidueye		true	true	false	false
+30	3	hisui	decidueye-hisui	hisui	true	true	false	false
+30	50	hisui	wyrdeer		true	true	false	false
+30	73	hisui	kleavor		true	true	false	false
+30	114	hisui	ursaluna		true	true	false	false
+30	114	hisui	ursaluna-bloodmoon	bloodmoon	true	false	false	false
+30	167	hisui	basculegion-male	male	true	true	false	false
+30	167	hisui	basculegion-female	female	true	true	false	false
+30	203	hisui	sneasler		true	true	false	false
+30	85	hisui	overqwil		true	true	false	false
+30	234	hisui	enamorus-incarnate	incarnate	true	true	false	false
+30	234	hisui	enamorus-therian	therian	true	true	false	false

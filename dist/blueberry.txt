@@ -1,0 +1,386 @@
+pokedexId	pokedexNumber	pokedexName	formName	formIdentifier	isMainSeries	isDefault	isBattleOnly	isMega
+33	164	blueberry	bulbasaur		true	true	false	false
+33	165	blueberry	ivysaur		true	true	false	false
+33	166	blueberry	venusaur		true	true	false	false
+33	166	blueberry	venusaur-mega	mega	true	true	true	true
+33	166	blueberry	venusaur-gmax	gmax	true	true	true	false
+33	167	blueberry	charmander		true	true	false	false
+33	168	blueberry	charmeleon		true	true	false	false
+33	169	blueberry	charizard		true	true	false	false
+33	169	blueberry	charizard-mega-x	mega-x	true	true	true	true
+33	169	blueberry	charizard-mega-y	mega-y	true	true	true	true
+33	169	blueberry	charizard-gmax	gmax	true	true	true	false
+33	170	blueberry	squirtle		true	true	false	false
+33	171	blueberry	wartortle		true	true	false	false
+33	172	blueberry	blastoise		true	true	false	false
+33	172	blueberry	blastoise-mega	mega	true	true	true	true
+33	172	blueberry	blastoise-gmax	gmax	true	true	true	false
+33	155	blueberry	sandshrew		true	true	false	false
+33	155	blueberry	sandshrew-alola	alola	true	true	false	false
+33	156	blueberry	sandslash		true	true	false	false
+33	156	blueberry	sandslash-alola	alola	true	true	false	false
+33	157	blueberry	vulpix		true	true	false	false
+33	157	blueberry	vulpix-alola	alola	true	true	false	false
+33	158	blueberry	ninetales		true	true	false	false
+33	158	blueberry	ninetales-alola	alola	true	true	false	false
+33	62	blueberry	oddish		true	true	false	false
+33	63	blueberry	gloom		true	true	false	false
+33	64	blueberry	vileplume		true	true	false	false
+33	8	blueberry	venonat		true	true	false	false
+33	9	blueberry	venomoth		true	true	false	false
+33	66	blueberry	diglett		true	true	false	false
+33	66	blueberry	diglett-alola	alola	true	true	false	false
+33	67	blueberry	dugtrio		true	true	false	false
+33	67	blueberry	dugtrio-alola	alola	true	true	false	false
+33	50	blueberry	tentacool		true	true	false	false
+33	51	blueberry	tentacruel		true	true	false	false
+33	96	blueberry	geodude		true	true	false	false
+33	96	blueberry	geodude-alola	alola	true	true	false	false
+33	97	blueberry	graveler		true	true	false	false
+33	97	blueberry	graveler-alola	alola	true	true	false	false
+33	98	blueberry	golem		true	true	false	false
+33	98	blueberry	golem-alola	alola	true	true	false	false
+33	75	blueberry	slowpoke		true	true	false	false
+33	75	blueberry	slowpoke-galar	galar	true	true	false	false
+33	76	blueberry	slowbro		true	true	false	false
+33	76	blueberry	slowbro-mega	mega	true	true	true	true
+33	76	blueberry	slowbro-galar	galar	true	true	false	false
+33	116	blueberry	magnemite		true	true	false	false
+33	117	blueberry	magneton		true	true	false	false
+33	1	blueberry	doduo		true	true	false	false
+33	2	blueberry	dodrio		true	true	false	false
+33	143	blueberry	seel		true	true	false	false
+33	144	blueberry	dewgong		true	true	false	false
+33	68	blueberry	grimer		true	true	false	false
+33	68	blueberry	grimer-alola	alola	true	true	false	false
+33	69	blueberry	muk		true	true	false	false
+33	69	blueberry	muk-alola	alola	true	true	false	false
+33	3	blueberry	exeggcute		true	true	false	false
+33	4	blueberry	exeggutor		true	true	false	false
+33	4	blueberry	exeggutor-alola	alola	true	true	false	false
+33	93	blueberry	hitmonlee		true	true	false	false
+33	94	blueberry	hitmonchan		true	true	false	false
+33	5	blueberry	rhyhorn		true	true	false	false
+33	6	blueberry	rhydon		true	true	false	false
+33	17	blueberry	chansey		true	true	false	false
+33	52	blueberry	horsea		true	true	false	false
+33	53	blueberry	seadra		true	true	false	false
+33	19	blueberry	scyther		true	true	false	false
+33	11	blueberry	electabuzz		true	true	false	false
+33	14	blueberry	magmar		true	true	false	false
+33	22	blueberry	tauros		true	true	false	false
+33	22	blueberry	tauros-paldea-combat-breed	paldea-combat-breed	true	false	false	false
+33	22	blueberry	tauros-paldea-blaze-breed	paldea-blaze-breed	true	false	false	false
+33	22	blueberry	tauros-paldea-aqua-breed	paldea-aqua-breed	true	false	false	false
+33	145	blueberry	lapras		true	true	false	false
+33	145	blueberry	lapras-gmax	gmax	true	true	true	false
+33	129	blueberry	porygon		true	true	false	false
+33	173	blueberry	chikorita		true	true	false	false
+33	174	blueberry	bayleef		true	true	false	false
+33	175	blueberry	meganium		true	true	false	false
+33	176	blueberry	cyndaquil		true	true	false	false
+33	177	blueberry	quilava		true	true	false	false
+33	178	blueberry	typhlosion		true	true	false	false
+33	178	blueberry	typhlosion-hisui	hisui	true	true	false	false
+33	179	blueberry	totodile		true	true	false	false
+33	180	blueberry	croconaw		true	true	false	false
+33	181	blueberry	feraligatr		true	true	false	false
+33	78	blueberry	chinchou		true	true	false	false
+33	79	blueberry	lanturn		true	true	false	false
+33	65	blueberry	bellossom		true	true	false	false
+33	77	blueberry	slowking		true	true	false	false
+33	77	blueberry	slowking-galar	galar	true	true	false	false
+33	25	blueberry	girafarig		true	true	false	false
+33	151	blueberry	snubbull		true	true	false	false
+33	152	blueberry	granbull		true	true	false	false
+33	146	blueberry	qwilfish		true	true	false	false
+33	146	blueberry	qwilfish-hisui	hisui	true	true	false	false
+33	20	blueberry	scizor		true	true	false	false
+33	20	blueberry	scizor-mega	mega	true	true	true	true
+33	113	blueberry	skarmory		true	true	false	false
+33	54	blueberry	kingdra		true	true	false	false
+33	130	blueberry	porygon2		true	true	false	false
+33	40	blueberry	smeargle		true	true	false	false
+33	92	blueberry	tyrogue		true	true	false	false
+33	95	blueberry	hitmontop		true	true	false	false
+33	10	blueberry	elekid		true	true	false	false
+33	13	blueberry	magby		true	true	false	false
+33	18	blueberry	blissey		true	true	false	false
+33	182	blueberry	treecko		true	true	false	false
+33	183	blueberry	grovyle		true	true	false	false
+33	184	blueberry	sceptile		true	true	false	false
+33	184	blueberry	sceptile-mega	mega	true	true	true	true
+33	185	blueberry	torchic		true	true	false	false
+33	186	blueberry	combusken		true	true	false	false
+33	187	blueberry	blaziken		true	true	false	false
+33	187	blueberry	blaziken-mega	mega	true	true	true	true
+33	188	blueberry	mudkip		true	true	false	false
+33	189	blueberry	marshtomp		true	true	false	false
+33	190	blueberry	swampert		true	true	false	false
+33	190	blueberry	swampert-mega	mega	true	true	true	true
+33	59	blueberry	slakoth		true	true	false	false
+33	60	blueberry	vigoroth		true	true	false	false
+33	61	blueberry	slaking		true	true	false	false
+33	119	blueberry	plusle		true	true	false	false
+33	120	blueberry	minun		true	true	false	false
+33	125	blueberry	numel		true	true	false	false
+33	126	blueberry	camerupt		true	true	false	false
+33	126	blueberry	camerupt-mega	mega	true	true	true	true
+33	86	blueberry	torkoal		true	true	false	false
+33	44	blueberry	trapinch		true	true	false	false
+33	45	blueberry	vibrava		true	true	false	false
+33	46	blueberry	flygon		true	true	false	false
+33	114	blueberry	swablu		true	true	false	false
+33	115	blueberry	altaria		true	true	false	false
+33	115	blueberry	altaria-mega	mega	true	true	true	true
+33	70	blueberry	zangoose		true	true	false	false
+33	71	blueberry	seviper		true	true	false	false
+33	82	blueberry	luvdisc		true	true	false	false
+33	137	blueberry	beldum		true	true	false	false
+33	138	blueberry	metang		true	true	false	false
+33	139	blueberry	metagross		true	true	false	false
+33	139	blueberry	metagross-mega	mega	true	true	true	true
+33	191	blueberry	turtwig		true	true	false	false
+33	192	blueberry	grotle		true	true	false	false
+33	193	blueberry	torterra		true	true	false	false
+33	194	blueberry	chimchar		true	true	false	false
+33	195	blueberry	monferno		true	true	false	false
+33	196	blueberry	infernape		true	true	false	false
+33	197	blueberry	piplup		true	true	false	false
+33	198	blueberry	prinplup		true	true	false	false
+33	199	blueberry	empoleon		true	true	false	false
+33	107	blueberry	cranidos		true	true	false	false
+33	108	blueberry	rampardos		true	true	false	false
+33	109	blueberry	shieldon		true	true	false	false
+33	110	blueberry	bastiodon		true	true	false	false
+33	16	blueberry	happiny		true	true	false	false
+33	83	blueberry	finneon		true	true	false	false
+33	84	blueberry	lumineon		true	true	false	false
+33	159	blueberry	snover		true	true	false	false
+33	160	blueberry	abomasnow		true	true	false	false
+33	160	blueberry	abomasnow-mega	mega	true	true	true	true
+33	118	blueberry	magnezone		true	true	false	false
+33	7	blueberry	rhyperior		true	true	false	false
+33	12	blueberry	electivire		true	true	false	false
+33	15	blueberry	magmortar		true	true	false	false
+33	131	blueberry	porygon-z		true	true	false	false
+33	41	blueberry	rotom		true	true	false	false
+33	41	blueberry	rotom-heat	heat	true	true	false	false
+33	41	blueberry	rotom-wash	wash	true	true	false	false
+33	41	blueberry	rotom-frost	frost	true	true	false	false
+33	41	blueberry	rotom-fan	fan	true	true	false	false
+33	41	blueberry	rotom-mow	mow	true	true	false	false
+33	200	blueberry	snivy		true	true	false	false
+33	201	blueberry	servine		true	true	false	false
+33	202	blueberry	serperior		true	true	false	false
+33	203	blueberry	tepig		true	true	false	false
+33	204	blueberry	pignite		true	true	false	false
+33	205	blueberry	emboar		true	true	false	false
+33	206	blueberry	oshawott		true	true	false	false
+33	207	blueberry	dewott		true	true	false	false
+33	208	blueberry	samurott		true	true	false	false
+33	208	blueberry	samurott-hisui	hisui	true	true	false	false
+33	23	blueberry	blitzle		true	true	false	false
+33	24	blueberry	zebstrika		true	true	false	false
+33	99	blueberry	drilbur		true	true	false	false
+33	100	blueberry	excadrill		true	true	false	false
+33	56	blueberry	cottonee		true	true	false	false
+33	57	blueberry	whimsicott		true	true	false	false
+33	27	blueberry	sandile		true	true	false	false
+33	28	blueberry	krokorok		true	true	false	false
+33	29	blueberry	krookodile		true	true	false	false
+33	121	blueberry	scraggy		true	true	false	false
+33	122	blueberry	scrafty		true	true	false	false
+33	111	blueberry	minccino		true	true	false	false
+33	112	blueberry	cinccino		true	true	false	false
+33	101	blueberry	gothita		true	true	false	false
+33	102	blueberry	gothorita		true	true	false	false
+33	103	blueberry	gothitelle		true	true	false	false
+33	148	blueberry	solosis		true	true	false	false
+33	149	blueberry	duosion		true	true	false	false
+33	150	blueberry	reuniclus		true	true	false	false
+33	38	blueberry	deerling-spring	spring	true	true	false	false
+33	38	blueberry	deerling-summer	summer	true	false	false	false
+33	38	blueberry	deerling-autumn	autumn	true	false	false	false
+33	38	blueberry	deerling-winter	winter	true	false	false	false
+33	39	blueberry	sawsbuck-spring	spring	true	true	false	false
+33	39	blueberry	sawsbuck-summer	summer	true	false	false	false
+33	39	blueberry	sawsbuck-autumn	autumn	true	false	false	false
+33	39	blueberry	sawsbuck-winter	winter	true	false	false	false
+33	85	blueberry	alomomola		true	true	false	false
+33	132	blueberry	joltik		true	true	false	false
+33	133	blueberry	galvantula		true	true	false	false
+33	134	blueberry	tynamo		true	true	false	false
+33	135	blueberry	eelektrik		true	true	false	false
+33	136	blueberry	eelektross		true	true	false	false
+33	140	blueberry	axew		true	true	false	false
+33	141	blueberry	fraxure		true	true	false	false
+33	142	blueberry	haxorus		true	true	false	false
+33	153	blueberry	cubchoo		true	true	false	false
+33	154	blueberry	beartic		true	true	false	false
+33	123	blueberry	golett		true	true	false	false
+33	124	blueberry	golurk		true	true	false	false
+33	32	blueberry	rufflet		true	true	false	false
+33	33	blueberry	braviary		true	true	false	false
+33	33	blueberry	braviary-hisui	hisui	true	true	false	false
+33	34	blueberry	vullaby		true	true	false	false
+33	35	blueberry	mandibuzz		true	true	false	false
+33	209	blueberry	chespin		true	true	false	false
+33	210	blueberry	quilladin		true	true	false	false
+33	211	blueberry	chesnaught		true	true	false	false
+33	212	blueberry	fennekin		true	true	false	false
+33	213	blueberry	braixen		true	true	false	false
+33	214	blueberry	delphox		true	true	false	false
+33	215	blueberry	froakie		true	true	false	false
+33	216	blueberry	frogadier		true	true	false	false
+33	217	blueberry	greninja		true	true	false	false
+33	217	blueberry	greninja-battle-bond	battle-bond	true	true	false	false
+33	217	blueberry	greninja-ash	ash	true	true	true	false
+33	87	blueberry	fletchling		true	true	false	false
+33	88	blueberry	fletchinder		true	true	false	false
+33	89	blueberry	talonflame		true	true	false	false
+33	36	blueberry	litleo		true	true	false	false
+33	37	blueberry	pyroar		true	true	false	false
+33	104	blueberry	espurr		true	true	false	false
+33	105	blueberry	meowstic-male	male	true	true	false	false
+33	105	blueberry	meowstic-female	female	true	true	false	false
+33	80	blueberry	inkay		true	true	false	false
+33	81	blueberry	malamar		true	true	false	false
+33	218	blueberry	rowlet		true	true	false	false
+33	219	blueberry	dartrix		true	true	false	false
+33	220	blueberry	decidueye		true	true	false	false
+33	220	blueberry	decidueye-hisui	hisui	true	true	false	false
+33	221	blueberry	litten		true	true	false	false
+33	222	blueberry	torracat		true	true	false	false
+33	223	blueberry	incineroar		true	true	false	false
+33	224	blueberry	popplio		true	true	false	false
+33	225	blueberry	brionne		true	true	false	false
+33	226	blueberry	primarina		true	true	false	false
+33	47	blueberry	pikipek		true	true	false	false
+33	48	blueberry	trumbeak		true	true	false	false
+33	49	blueberry	toucannon		true	true	false	false
+33	72	blueberry	crabrawler		true	true	false	false
+33	73	blueberry	crabominable		true	true	false	false
+33	74	blueberry	oricorio-baile	baile	true	true	false	false
+33	74	blueberry	oricorio-pom-pom	pom-pom	true	true	false	false
+33	74	blueberry	oricorio-pau	pau	true	true	false	false
+33	74	blueberry	oricorio-sensu	sensu	true	true	false	false
+33	90	blueberry	dewpider		true	true	false	false
+33	91	blueberry	araquanid		true	true	false	false
+33	91	blueberry	araquanid-totem	totem	true	true	false	false
+33	58	blueberry	comfey		true	true	false	false
+33	106	blueberry	minior-red-meteor	red-meteor	true	true	false	false
+33	106	blueberry	minior-orange-meteor	orange-meteor	true	true	true	false
+33	106	blueberry	minior-yellow-meteor	yellow-meteor	true	true	true	false
+33	106	blueberry	minior-green-meteor	green-meteor	true	true	true	false
+33	106	blueberry	minior-blue-meteor	blue-meteor	true	true	true	false
+33	106	blueberry	minior-indigo-meteor	indigo-meteor	true	true	true	false
+33	106	blueberry	minior-violet-meteor	violet-meteor	true	true	true	false
+33	106	blueberry	minior-red	red	true	true	false	false
+33	106	blueberry	minior-orange	orange	true	true	false	false
+33	106	blueberry	minior-yellow	yellow	true	true	false	false
+33	106	blueberry	minior-green	green	true	true	false	false
+33	106	blueberry	minior-blue	blue	true	true	false	false
+33	106	blueberry	minior-indigo	indigo	true	true	false	false
+33	106	blueberry	minior-violet	violet	true	true	false	false
+33	55	blueberry	bruxish		true	true	false	false
+33	227	blueberry	grookey		true	true	false	false
+33	228	blueberry	thwackey		true	true	false	false
+33	229	blueberry	rillaboom		true	true	false	false
+33	229	blueberry	rillaboom-gmax	gmax	true	true	true	false
+33	230	blueberry	scorbunny		true	true	false	false
+33	231	blueberry	raboot		true	true	false	false
+33	232	blueberry	cinderace		true	true	false	false
+33	232	blueberry	cinderace-gmax	gmax	true	true	true	false
+33	233	blueberry	sobble		true	true	false	false
+33	234	blueberry	drizzile		true	true	false	false
+33	235	blueberry	inteleon		true	true	false	false
+33	235	blueberry	inteleon-gmax	gmax	true	true	true	false
+33	127	blueberry	sinistea-phony	phony	true	true	false	false
+33	127	blueberry	sinistea-antique	antique	true	false	false	false
+33	128	blueberry	polteageist-phony	phony	true	true	false	false
+33	128	blueberry	polteageist-antique	antique	true	false	false	false
+33	42	blueberry	milcery		true	true	false	false
+33	43	blueberry	alcremie-vanilla-cream-strawberry-sweet	vanilla-cream-strawberry-sweet	true	true	false	false
+33	43	blueberry	alcremie-ruby-cream-strawberry-sweet	ruby-cream-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-matcha-cream-strawberry-sweet	matcha-cream-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-mint-cream-strawberry-sweet	mint-cream-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-lemon-cream-strawberry-sweet	lemon-cream-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-salted-cream-strawberry-sweet	salted-cream-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-swirl-strawberry-sweet	ruby-swirl-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-caramel-swirl-strawberry-sweet	caramel-swirl-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-rainbow-swirl-strawberry-sweet	rainbow-swirl-strawberry-sweet	true	false	false	false
+33	43	blueberry	alcremie-vanilla-cream-berry-sweet	vanilla-cream-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-cream-berry-sweet	ruby-cream-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-matcha-cream-berry-sweet	matcha-cream-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-mint-cream-berry-sweet	mint-cream-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-lemon-cream-berry-sweet	lemon-cream-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-salted-cream-berry-sweet	salted-cream-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-swirl-berry-sweet	ruby-swirl-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-caramel-swirl-berry-sweet	caramel-swirl-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-rainbow-swirl-berry-sweet	rainbow-swirl-berry-sweet	true	false	false	false
+33	43	blueberry	alcremie-vanilla-cream-love-sweet	vanilla-cream-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-cream-love-sweet	ruby-cream-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-matcha-cream-love-sweet	matcha-cream-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-mint-cream-love-sweet	mint-cream-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-lemon-cream-love-sweet	lemon-cream-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-salted-cream-love-sweet	salted-cream-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-swirl-love-sweet	ruby-swirl-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-caramel-swirl-love-sweet	caramel-swirl-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-rainbow-swirl-love-sweet	rainbow-swirl-love-sweet	true	false	false	false
+33	43	blueberry	alcremie-vanilla-cream-star-sweet	vanilla-cream-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-cream-star-sweet	ruby-cream-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-matcha-cream-star-sweet	matcha-cream-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-mint-cream-star-sweet	mint-cream-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-lemon-cream-star-sweet	lemon-cream-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-salted-cream-star-sweet	salted-cream-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-swirl-star-sweet	ruby-swirl-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-caramel-swirl-star-sweet	caramel-swirl-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-rainbow-swirl-star-sweet	rainbow-swirl-star-sweet	true	false	false	false
+33	43	blueberry	alcremie-vanilla-cream-clover-sweet	vanilla-cream-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-cream-clover-sweet	ruby-cream-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-matcha-cream-clover-sweet	matcha-cream-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-mint-cream-clover-sweet	mint-cream-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-lemon-cream-clover-sweet	lemon-cream-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-salted-cream-clover-sweet	salted-cream-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-swirl-clover-sweet	ruby-swirl-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-caramel-swirl-clover-sweet	caramel-swirl-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-rainbow-swirl-clover-sweet	rainbow-swirl-clover-sweet	true	false	false	false
+33	43	blueberry	alcremie-vanilla-cream-flower-sweet	vanilla-cream-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-cream-flower-sweet	ruby-cream-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-matcha-cream-flower-sweet	matcha-cream-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-mint-cream-flower-sweet	mint-cream-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-lemon-cream-flower-sweet	lemon-cream-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-salted-cream-flower-sweet	salted-cream-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-swirl-flower-sweet	ruby-swirl-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-caramel-swirl-flower-sweet	caramel-swirl-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-rainbow-swirl-flower-sweet	rainbow-swirl-flower-sweet	true	false	false	false
+33	43	blueberry	alcremie-vanilla-cream-ribbon-sweet	vanilla-cream-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-cream-ribbon-sweet	ruby-cream-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-matcha-cream-ribbon-sweet	matcha-cream-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-mint-cream-ribbon-sweet	mint-cream-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-lemon-cream-ribbon-sweet	lemon-cream-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-salted-cream-ribbon-sweet	salted-cream-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-ruby-swirl-ribbon-sweet	ruby-swirl-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-caramel-swirl-ribbon-sweet	caramel-swirl-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-rainbow-swirl-ribbon-sweet	rainbow-swirl-ribbon-sweet	true	false	false	false
+33	43	blueberry	alcremie-gmax	gmax	true	true	true	false
+33	161	blueberry	duraludon		true	true	false	false
+33	161	blueberry	duraludon-gmax	gmax	true	true	true	false
+33	21	blueberry	kleavor		true	true	false	false
+33	147	blueberry	overqwil		true	true	false	false
+33	30	blueberry	rellor		true	true	false	false
+33	31	blueberry	rabsca		true	true	false	false
+33	26	blueberry	farigiraf		true	true	false	false
+33	241	blueberry	walking-wake		true	true	false	false
+33	242	blueberry	iron-leaves		true	true	false	false
+33	162	blueberry	archaludon		true	true	false	false
+33	163	blueberry	hydrapple		true	true	false	false
+33	236	blueberry	gouging-fire		true	true	false	false
+33	237	blueberry	raging-bolt		true	true	false	false
+33	239	blueberry	iron-boulder		true	true	false	false
+33	238	blueberry	iron-crown		true	true	false	false
+33	240	blueberry	terapagos		true	true	false	false
+33	240	blueberry	terapagos-terastal	terastal	true	false	true	false
+33	240	blueberry	terapagos-stellar	stellar	true	false	true	false
+33	243	blueberry	pecharunt		true	true	false	false

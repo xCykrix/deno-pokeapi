@@ -9,6 +9,7 @@ export interface PokedexDataFile {
 export interface Pokedex {
   id: number;
   name: string;
+  is_main_series: boolean;
   pokemon_v2_pokemondexnumbers: PokedexEntry[];
 }
 
